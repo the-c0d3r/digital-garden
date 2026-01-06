@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/00-index/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/garden/00-index/","tags":["gardenEntry"],"created":"2026-01-05 21:28","updated":"2026-01-06 00:12"}
 ---
 
 # Index
@@ -24,6 +24,7 @@ This is where I will be putting longer form posts that are more polished.
 
 | File                                                           | Last Modified    |
 | -------------------------------------------------------------- | ---------------- |
+| [[Garden/notes/Linux Capabilities\|Linux Capabilities]]     | 2026-01-06 13:33 |
 | [[Garden/notes/ELF\|ELF]]                                   | 2026-01-06 09:36 |
 | [[Garden/00-Index\|00-Index]]                               | 2026-01-06 00:12 |
 | [[Garden/posts/Linux Process\|Linux Process]]               | 2026-01-05 22:44 |

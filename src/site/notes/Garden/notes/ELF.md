@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/notes/elf/"}
+{"dg-publish":true,"permalink":"/garden/notes/elf/","created":"2021-12-18T14:07:49+08:00","updated":"2026-01-06 09:36"}
 ---
 
 

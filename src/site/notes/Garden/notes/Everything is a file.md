@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/notes/everything-is-a-file/","tags":["linux"]}
+{"dg-publish":true,"permalink":"/garden/notes/everything-is-a-file/","tags":["linux"],"created":"2022-10-16 20:00","updated":"2026-01-05 22:27"}
 ---
 
 ## Everything is a file
