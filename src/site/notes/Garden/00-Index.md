@@ -24,6 +24,7 @@ This is where I will be putting longer form posts that are more polished.
 
 | File                                                           | Last Modified    |
 | -------------------------------------------------------------- | ---------------- |
+| [[Garden/posts/Hugepages\|Hugepages]]                       | 2026-01-06 13:36 |
 | [[Garden/notes/Linux Capabilities\|Linux Capabilities]]     | 2026-01-06 13:33 |
 | [[Garden/notes/ELF\|ELF]]                                   | 2026-01-06 09:36 |
 | [[Garden/00-Index\|00-Index]]                               | 2026-01-06 00:12 |
