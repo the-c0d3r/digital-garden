@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/linux-process/","created":"2021-12-21T11:08:42+08:00","updated":"2026-01-05 22:44"}
+{"dg-publish":true,"permalink":"/garden/posts/linux-process/"}
 ---
 
 # Linux Process

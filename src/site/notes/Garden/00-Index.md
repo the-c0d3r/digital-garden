@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/00-index/","tags":["gardenEntry"],"created":"2026-01-05 21:28","updated":"2026-01-06 00:12"}
+{"dg-publish":true,"permalink":"/garden/00-index/","tags":["gardenEntry"]}
 ---
 
 # Index
