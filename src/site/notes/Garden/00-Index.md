@@ -10,7 +10,7 @@ In general I have notes for like
 - software development
 - #hacking 
 - #linux 
-
+- checkout my Obsidian plugin [[Garden/posts/Linked Note Exporter\|Linked Note Exporter]] 🚀
 
 ## knowledge-base
 This is where I will be putting notes that might be incomplete, atomic and unpolished.
@@ -22,6 +22,7 @@ This is where I will be putting longer form posts that are more polished.
 
 | File                                                                    | Last Modified    |
 | ----------------------------------------------------------------------- | ---------------- |
+| [[Garden/posts/Linked Note Exporter\|Linked Note Exporter]]          | 2026-01-06 18:39 |
 | [[Garden/posts/Hugepages\|Hugepages]]                                | 2026-01-06 13:36 |
 | [[Garden/knowledge-base/Linux Capabilities\|Linux Capabilities]]     | 2026-01-06 13:33 |
 | [[Garden/00-Index\|00-Index]]                                        | 2026-01-06 09:53 |
