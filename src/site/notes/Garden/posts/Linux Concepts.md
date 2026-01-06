@@ -46,7 +46,7 @@ Basically, if you are familiar with one distribution of Linux, you should be abl
 
 For example, Arch is notorious for being difficult to install (trust me, it isn't).
 
-## [[Garden/notes/Everything is a file\|Everything is a file]]
+## [[Garden/knowledge-base/Everything is a file\|Everything is a file]]
 
 In Linux, you can change anything you want, very easily
 You don't like a desktop environment, you change it,
@@ -61,7 +61,7 @@ Free and Opensource does not imply [[Free as in Free Beer\|Free as in Free Beer]
 
 
 [[Garden/posts/Linux Process\|Linux Process]]
-[[Garden/notes/ELF\|ELF]] file format
+[[Garden/knowledge-base/ELF\|ELF]] file format
 
 ## File Extensions are just hints
 

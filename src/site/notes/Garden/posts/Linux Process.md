@@ -5,7 +5,7 @@
 # Linux Process
 
 topics: [[02-Area/programming/Linux\|Linux]]
-related: [[Garden/notes/ELF\|ELF]]
+related: [[Garden/knowledge-base/ELF\|ELF]]
 tags: #linux 
 
 Source: [Module: Program Interaction | pwn.college](https://pwn.college/modules/interaction)
@@ -19,7 +19,7 @@ Source: [Module: Program Interaction | pwn.college](https://pwn.college/modules/
 - security context
     - euid, egid
     - saved uid and gid
-    - [[Garden/notes/Linux Capabilities\|Linux Capabilities]]
+    - [[Garden/knowledge-base/Linux Capabilities\|Linux Capabilities]]
 
 ## Process creation
 - fork
@@ -41,7 +41,7 @@ Sequential and possibly recursive
 1. check the shebang line `#!` if it exists, extracts the interpreter and executes it with the original file as the argument
 2. check for file format match with `/proc/sys/fs/binfmt_misc`, if it matches, the kernel executes the interpreter specified with the original file as the argument
     1. [binfmt_misc - Wikipedia](https://en.wikipedia.org/wiki/Binfmt_misc) specifies that this file is usually mounted and you can use it to run `.exe` with `wine` for example, `:DOSWin:M::MZ::/usr/bin/wine:`.
-3. If the file is dynamically linked [[Garden/notes/ELF\|ELF]], then kernel reads the interpreter or loader defined in [[Garden/notes/ELF#ELF Program headers\|ELF#ELF Program headers]].
+3. If the file is dynamically linked [[Garden/knowledge-base/ELF\|ELF]], then kernel reads the interpreter or loader defined in [[Garden/knowledge-base/ELF#ELF Program headers\|ELF#ELF Program headers]].
 4. If the file is a statically linked ELF, the kernel will load it. 
     1. This looks like the fat binary compilation
 5. Other legacy formats are checked
@@ -176,7 +176,7 @@ date: [[00-Journals/journal-personal/2021/2021-12-23\|2021-12-23]] 03:04 PM
 source: [Module: Program Interaction | pwn.college](https://pwn.college/modules/interaction)
 video: [pwn.college - Program Interaction - Linux Process Execution - YouTube](https://www.youtube.com/watch?v=Vtb5wIlthRg)
 
-Normal [[Garden/notes/ELF\|ELF]] automatically calls `__libc_start_main()` in `libc` library, which will in turn calls the program's `main()` function.
+Normal [[Garden/knowledge-base/ELF\|ELF]] automatically calls `__libc_start_main()` in `libc` library, which will in turn calls the program's `main()` function.
 
 Main function signatures
 ```c
