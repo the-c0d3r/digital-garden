@@ -10,7 +10,11 @@ In general I have notes for like
 - software development
 - #hacking 
 - #linux 
-- checkout my Obsidian plugin [[Garden/posts/Linked Note Exporter\|Linked Note Exporter]] 🚀
+
+
+## Projects
+- my own obsidian plugin [[Garden/posts/Linked Note Exporter\|Linked Note Exporter]] 🚀
+- my [dotfiles](https://github.com/the-c0d3r/dot-files) : recently I have been heavily into [[10-Inbox/Nix\|Nix]] to declaratively manage my packages, and dotfiles
 
 ## knowledge-base
 This is where I will be putting notes that might be incomplete, atomic and unpolished.
