@@ -32,6 +32,7 @@ This is where I will be putting longer form posts that are more polished.
 
 | File                                                           | Last Modified    |
 | -------------------------------------------------------------- | ---------------- |
+| [[Garden/posts/Linux permissions\|Linux permissions]]       | 2026-01-08 10:52 |
 | [[Garden/posts/The fear of starting\|The fear of starting]] | 2026-01-07 10:18 |
 | [[Garden/posts/Linked Note Exporter\|Linked Note Exporter]] | 2026-01-06 18:39 |
 | [[Garden/posts/Hugepages\|Hugepages]]                       | 2026-01-06 13:36 |
