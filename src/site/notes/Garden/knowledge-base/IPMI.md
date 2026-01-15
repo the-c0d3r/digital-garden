@@ -24,7 +24,7 @@ ipmitool lan print 1
 # get the ID of the user
 ipmitool user list 1
 ipmitool user set password <ID> <new password>
-ipmitool user set password 2 aegis123
+ipmitool user set password 2 testabc
 # ---
 # find out available users
 ipmitool -I open user list 1
@@ -65,9 +65,9 @@ ipmitool lan set 1 defgw ipaddr 10.0.1.254
 ## iLO through ssh tunnel
 
 ```bash
-IPMI="10.0.1.1"
+IPMI="10.10.11.11"
 HOST="192.168.1.100"
-sudo ssh -L 22:$IPMI:22 -L 23:$IPMI:23 -L 80:$IPMI:80 -L 443:$IPMI:443 -L 17988:$IPMI:17988 -L 9300:1$IPMI:9300 -L 17990:$IPMI:17990 -L 3002:$IPMI:3002 root@10.10.11.219
+sudo ssh -L 22:$IPMI:22 -L 23:$IPMI:23 -L 80:$IPMI:80 -L 443:$IPMI:443 -L 17988:$IPMI:17988 -L 9300:1$IPMI:9300 -L 17990:$IPMI:17990 -L 3002:$IPMI:3002 root@10.10.11.11
 ```
 
 ## Hardware logs
