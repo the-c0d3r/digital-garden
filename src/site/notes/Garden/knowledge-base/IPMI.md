@@ -4,7 +4,11 @@
 
 # IPMI
 
-Applicable for both iLO (dell) and BMC (supermicro)
+This is a tool to interact with the out of bound management interface of servers, such as iLO (HPE), iDRAC (dell) and BMC (supermicro). 
+
+You can use it to do the following for iLO/iDRAC/BMC
+1. reset admin password
+2. configure out of bound network
 
 ## Installation
 
