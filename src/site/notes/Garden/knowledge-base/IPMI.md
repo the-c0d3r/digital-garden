@@ -66,6 +66,13 @@ ipmitool lan set 1 netmask 255.255.255.0
 ipmitool lan set 1 defgw ipaddr 10.0.1.254
 ```
 
+
+## Test user account
+
+```bash
+ipmitool user test <ID> 20 <password>
+```
+
 ## iLO through ssh tunnel
 
 ```bash
