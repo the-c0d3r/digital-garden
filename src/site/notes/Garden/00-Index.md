@@ -21,6 +21,7 @@ This is where I will be putting notes that might be incomplete, atomic and unpol
 
 | File                                                                    | Last Modified    |
 | ----------------------------------------------------------------------- | ---------------- |
+| [[Garden/knowledge-base/3D Design - Blender\|3D Design - Blender]]   | 2026-01-19 13:57 |
 | [[Garden/knowledge-base/man page\|man page]]                         | 2026-01-19 10:14 |
 | [[Garden/knowledge-base/IPMI\|IPMI]]                                 | 2026-01-15 15:40 |
 | [[Garden/knowledge-base/Linux Capabilities\|Linux Capabilities]]     | 2026-01-06 13:33 |
