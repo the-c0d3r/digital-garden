@@ -336,7 +336,7 @@ read(3, "root:x:0:0::/root:/bin/bash\nnobo"..., 131072) = 2236
 ```
 And the file size is also in the `read` syscall. We can also see the `write` call with the same file size to the stdout.
 
-I learned [[02-Area/programming/Linux/man page\|man page]] sections and what the page numbers mean. Check `man 2 syscalls` to get a list of system calls. 
+I learned [[Garden/knowledge-base/man page\|man page]] sections and what the page numbers mean. Check `man 2 syscalls` to get a list of system calls. 
 
 Every system calls has a number. 
 You can call it using `syscall(n)` where `n` is the syscall number.

@@ -25,7 +25,7 @@ The one that impressed me is the KolibriOS, back then I attempted to run this on
 
 I also explored a few Linux distros with the intent of learning cyber security / hacking. I tried a variety of it, since the times of BackTrack4 (or was it 3? I can't recall). Many of them are just built to be used for hacking / cyber security. I really loved the way BackTrack5 looked at that time, with the cool wallpaper and very good looking, transparent gnome terminal theme.
 
-One thing leads to another and suddenly found myself learning about bash scripting, [[02-Area/programming/General/Vim\|Vim]], [[10-Inbox/Tmux\|Tmux]], screen, etc. All these things have propelled me towards a career where I was able to make full use of my skills of Linux, Hacking, and Programming.
+One thing leads to another and suddenly found myself learning about bash scripting, [[Garden/knowledge-base/Vim\|Vim]], [[10-Inbox/Tmux\|Tmux]], screen, etc. All these things have propelled me towards a career where I was able to make full use of my skills of Linux, Hacking, and Programming.
 
 ## Distributions
 

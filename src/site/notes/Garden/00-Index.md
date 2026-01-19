@@ -21,10 +21,12 @@ This is where I will be putting notes that might be incomplete, atomic and unpol
 
 | File                                                                    | Last Modified    |
 | ----------------------------------------------------------------------- | ---------------- |
+| [[Garden/knowledge-base/man page\|man page]]                         | 2026-01-19 10:14 |
 | [[Garden/knowledge-base/IPMI\|IPMI]]                                 | 2026-01-15 15:40 |
 | [[Garden/knowledge-base/Linux Capabilities\|Linux Capabilities]]     | 2026-01-06 13:33 |
 | [[Garden/knowledge-base/ELF\|ELF]]                                   | 2026-01-06 09:36 |
 | [[Garden/knowledge-base/Everything is a file\|Everything is a file]] | 2026-01-05 22:27 |
+| [[Garden/knowledge-base/Vim\|Vim]]                                   | 2025-08-27 23:24 |
 
 { .block-language-dataview}
 
