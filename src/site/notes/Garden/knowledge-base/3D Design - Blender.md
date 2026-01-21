@@ -92,4 +92,8 @@ G then Z - move only along Z-axis
 - [Completely redesigned parametric box. 100% 3D printable, no hardware needed : r/3Dprinting](https://www.reddit.com/r/3Dprinting/comments/15fb1ch/completely_redesigned_parametric_box_100_3d/)
     - [Parametric Box v2 (double clasp) by TheSameNameTwice \| Download free STL model \| Printables.com](https://www.printables.com/model/541235-parametric-box-v2-double-clasp/files)
 
+## Lessons
+
+- Don't just overlay object and intersect into each other. Make them union. This avoids having weird shapes inside the printed body, where it should be solid but becomes non-solid.
+
 ---
