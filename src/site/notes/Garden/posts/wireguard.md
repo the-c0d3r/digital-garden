@@ -89,11 +89,11 @@ Ensure the firewall allows `51280/udp` on the public interface.
 wg show
 
 interface: wg0
-  public key: hAX8hGjMhTIF5EHXzzzY9Xlw2/sdg7h2RMtYjtKqhhA=
+  public key: ...
   private key: (hidden)
   listening port: 51820
 
-peer: ....
+peer: ...
   endpoint: <PEER_PUBLIC_IP>:51820
   allowed ips: <PEER WG IP>/32
   latest handshake: 1 minute, 33 seconds ago
