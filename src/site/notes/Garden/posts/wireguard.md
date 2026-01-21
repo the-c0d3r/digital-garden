@@ -12,7 +12,7 @@ related: [[02-Area/programming/Linux/Kernel parameters\|Kernel parameters]]
 
 [Installation - WireGuard](https://www.wireguard.com/install/)
 
-Centos: `sudo yum install kmod-wireguard wireguard-tools`
+Centos: `sudo yum install elrepo-release epel-release && sudo yum install kmod-wireguard wireguard-tools`
 
 ## Generate key pair
 
@@ -50,6 +50,7 @@ WantedBy=multi-user.target
 EOF
 
 systemctl enable wg-quick@wg0.service
+systemctl start wg-quick@wg0.service
 ```
 
 ## Example config
