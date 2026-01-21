@@ -36,6 +36,7 @@ This is where I will be putting longer form posts that are more polished.
 
 | File                                                           | Last Modified    |
 | -------------------------------------------------------------- | ---------------- |
+| [[Garden/posts/wireguard\|wireguard]]                       | 2026-01-21 15:10 |
 | [[Garden/posts/Library Design\|Library Design]]             | 2026-01-21 14:50 |
 | [[Garden/posts/Linux permissions\|Linux permissions]]       | 2026-01-08 10:52 |
 | [[Garden/posts/The fear of starting\|The fear of starting]] | 2026-01-07 10:18 |
