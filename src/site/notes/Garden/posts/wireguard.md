@@ -86,7 +86,7 @@ Ensure the firewall allows `51280/udp` on the public interface.
 ## Check status
 
 ```bash
-wg show
+$ wg show
 
 interface: wg0
   public key: ...
