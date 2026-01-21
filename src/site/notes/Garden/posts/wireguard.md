@@ -22,20 +22,22 @@ wg genkey | tee private.key | wg pubkey > public.pub
 
 ## Example config
 
+`vi /etc/wireguard/wg0.conf`
+
 ```
-cd /etc/wireguard/
-# wg0.conf
 [Interface]
-PrivateKey = XXXX
-Address = 10.0.1.21/32
-ListenPort = 51821
+PrivateKey = ${wg_private}
+# VPN interface IP
+Address = ${wg_ip}/32
+ListenPort = 51820
 PreUp = sysctl -w net.ipv4.ip_forward=1
 
-# remote settings for Host B
 [Peer]
-PublicKey = XXXX
-Endpoint = 10.0.2.22:51822
-AllowedIPs = 192.168.1.1/32   # which IP to allow access
+PublicKey = ${wg_peer_key}
+Endpoint = ${wg_peer_ip}   
+# if the peer has dynamic IP, then peer can connect back to this host. Simply remove this Endpoint line. 
+AllowedIPs = ${wg_peer_allowed_ip}  # if you want to do site to site
+PersistentKeepalive = 60
 ```
 
 ## Optimisation
