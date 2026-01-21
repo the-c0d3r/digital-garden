@@ -7,6 +7,11 @@
 topics: [[03-Resource/networking/Networking\|Networking]]
 related: [[02-Area/programming/Linux/Kernel parameters\|Kernel parameters]]
 
+General steps
+1. installation
+2. generate key pair
+3. generate config file
+4. generate service file
 
 ## Installation
 
@@ -21,23 +26,25 @@ cd /etc/wireguard
 wg genkey | tee private.key | wg pubkey > public.pub
 ```
 
-## Example config
+## Config file
 
 `vi /etc/wireguard/wg0.conf`
 
 ```toml
 [Interface]
 PrivateKey = ${wg_private}
-# VPN interface IP
+# wireguard vpn interface IP
 Address = ${wg_ip}/32
 ListenPort = 51820
 PreUp = sysctl -w net.ipv4.ip_forward=1
 
 [Peer]
 PublicKey = ${wg_peer_key}
+# peer's public IP address to connect to
 Endpoint = ${wg_peer_ip}   
 # if the peer has dynamic IP, then peer can connect back to this host. Simply remove this Endpoint line. 
 AllowedIPs = ${wg_peer_allowed_ip}
+# peer's wireguard ip address to be allowed
 PersistentKeepalive = 60
 # this allows NAT punch through
 ```
@@ -73,6 +80,28 @@ EOF
 systemctl enable wg-quick@wg0.service
 systemctl start wg-quick@wg0.service
 ```
+
+Ensure the firewall allows `51280/udp` on the public interface.
+
+## Check status
+
+```bash
+wg show
+
+interface: wg0
+  public key: hAX8hGjMhTIF5EHXzzzY9Xlw2/sdg7h2RMtYjtKqhhA=
+  private key: (hidden)
+  listening port: 51820
+
+peer: ....
+  endpoint: <PEER_PUBLIC_IP>:51820
+  allowed ips: <PEER WG IP>/32
+  latest handshake: 1 minute, 33 seconds ago
+  transfer: 944 B received, 2.70 KiB sent
+  persistent keepalive: every 1 minute
+```
+
+If you see latest handshake, it's working fine.
 
 ## Optimisation
 
