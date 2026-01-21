@@ -25,7 +25,7 @@ wg genkey | tee private.key | wg pubkey > public.pub
 
 `vi /etc/wireguard/wg0.conf`
 
-```
+```toml
 [Interface]
 PrivateKey = ${wg_private}
 # VPN interface IP
@@ -37,8 +37,9 @@ PreUp = sysctl -w net.ipv4.ip_forward=1
 PublicKey = ${wg_peer_key}
 Endpoint = ${wg_peer_ip}   
 # if the peer has dynamic IP, then peer can connect back to this host. Simply remove this Endpoint line. 
-AllowedIPs = ${wg_peer_allowed_ip}  # if you want to do site to site
+AllowedIPs = ${wg_peer_allowed_ip}
 PersistentKeepalive = 60
+# this allows NAT punch through
 ```
 
 ## Service
