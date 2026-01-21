@@ -16,10 +16,30 @@ Centos: `sudo yum install elrepo-release epel-release && sudo yum install kmod-w
 
 ## Generate key pair
 
-```
+```bash
+cd /etc/wireguard
 wg genkey | tee private.key | wg pubkey > public.pub
 ```
 
+## Example config
+
+`vi /etc/wireguard/wg0.conf`
+
+```
+[Interface]
+PrivateKey = ${wg_private}
+# VPN interface IP
+Address = ${wg_ip}/32
+ListenPort = 51820
+PreUp = sysctl -w net.ipv4.ip_forward=1
+
+[Peer]
+PublicKey = ${wg_peer_key}
+Endpoint = ${wg_peer_ip}   
+# if the peer has dynamic IP, then peer can connect back to this host. Simply remove this Endpoint line. 
+AllowedIPs = ${wg_peer_allowed_ip}  # if you want to do site to site
+PersistentKeepalive = 60
+```
 
 ## Service
 
@@ -51,26 +71,6 @@ EOF
 
 systemctl enable wg-quick@wg0.service
 systemctl start wg-quick@wg0.service
-```
-
-## Example config
-
-`vi /etc/wireguard/wg0.conf`
-
-```
-[Interface]
-PrivateKey = ${wg_private}
-# VPN interface IP
-Address = ${wg_ip}/32
-ListenPort = 51820
-PreUp = sysctl -w net.ipv4.ip_forward=1
-
-[Peer]
-PublicKey = ${wg_peer_key}
-Endpoint = ${wg_peer_ip}   
-# if the peer has dynamic IP, then peer can connect back to this host. Simply remove this Endpoint line. 
-AllowedIPs = ${wg_peer_allowed_ip}  # if you want to do site to site
-PersistentKeepalive = 60
 ```
 
 ## Optimisation
