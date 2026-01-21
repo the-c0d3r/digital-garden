@@ -95,5 +95,4 @@ G then Z - move only along Z-axis
 ## Lessons
 
 - Don't just overlay object and intersect into each other. Make them union. This avoids having weird shapes inside the printed body, where it should be solid but becomes non-solid.
-
----
+- Blender seems to be quite inefficient at doing 3D model for 3D printing purposes. The better and more targeted tool is Autodesk Fusion.

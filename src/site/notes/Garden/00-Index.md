@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/00-index/","pinned":true,"tags":["gardenEntry"],"created":"2026-01-05 21:28","updated":"2026-01-06 19:18"}
+{"dg-publish":true,"permalink":"/garden/00-index/","pinned":true,"tags":["gardenEntry"],"created":"2026-01-05 21:28","updated":"2026-01-07 01:07"}
 ---
 
 # Index
@@ -47,3 +47,7 @@ This is where I will be putting longer form posts that are more polished.
 | [[Garden/posts/OSCP Journey\|OSCP Journey]]                 | 2026-01-05 22:08 |
 
 { .block-language-dataview}
+
+
+
+This site is powered by [Digital Garden](https://dg-docs.ole.dev/).
