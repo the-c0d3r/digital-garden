@@ -46,3 +46,8 @@ I have a few things to say to it.
 3. keeping your own notes solidifies your own understanding, as you will have to type it out yourself. 
 
 My personal workflow is to rely heavily on my own knowledge base notes for my general knowledge. Even if I end up researching online or asking LLM, I would still distill what is necessary, and important to my knowledge base note, so that it grows over time and the usefulness expands. 
+
+
+> [!TLDR] Types of notes
+> 1. Project Notes: journal entries for a specific project
+> 2. Knowledge base Notes: specific reference note
