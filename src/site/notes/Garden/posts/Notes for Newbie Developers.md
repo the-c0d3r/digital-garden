@@ -74,7 +74,7 @@ News reader such as [[10-Inbox/inoreader\|inoreader]], hacker news to keep up wi
     - keep abreast
     - know what is feasible
 
-## Learn [[03-Resource/knowledge/Problem Solving\|Problem Solving]]
+## Learn [[Garden/posts/Problem Solving\|Problem Solving]]
 
 - [[Hardware and Software fundamentals\|Hardware and Software fundamentals]]
 - [[02-Area/web-clippings/Back to Basics\|Back to Basics]]

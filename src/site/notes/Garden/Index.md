@@ -43,6 +43,7 @@ This is where I will be putting longer form posts that are more polished.
 | File                                                                                           | Last Modified |
 | ---------------------------------------------------------------------------------------------- | ------------- |
 | [[Garden/knowledge-base/XY problem\|XY problem]]                                            | 22 Jan 2026   |
+| [[Garden/posts/Problem Solving\|Problem Solving]]                                           | 22 Jan 2026   |
 | [[Garden/posts/Notes for Newbie Developers\|Notes for Newbie Developers]]                   | 22 Jan 2026   |
 | [[Garden/posts/Arch Nvidia Docker\|Arch Nvidia Docker]]                                     | 22 Jan 2026   |
 | [[Garden/posts/Note taking for software development\|Note taking for software development]] | 22 Jan 2026   |

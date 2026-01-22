@@ -4,7 +4,7 @@
 
 # XY problem
 
-topics: [[03-Resource/knowledge/Problem Solving\|Problem Solving]]
+topics: [[Garden/posts/Problem Solving\|Problem Solving]]
 tags: #evergreen
 
 
