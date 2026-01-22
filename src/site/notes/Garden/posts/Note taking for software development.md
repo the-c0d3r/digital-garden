@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/note-taking-for-software-development/","tags":["knowledge"],"created":"2026-01-22T09:09:19+08:00","updated":"2026-01-22 09:09"}
+{"dg-publish":true,"permalink":"/garden/posts/note-taking-for-software-development/","tags":["knowledge"],"created":"2026-01-22T09:09:19+08:00","updated":"2026-01-22 09:45"}
 ---
 
 
@@ -51,3 +51,6 @@ My personal workflow is to rely heavily on my own knowledge base notes for my ge
 > [!TLDR] Types of notes
 > 1. Project Notes: journal entries for a specific project
 > 2. Knowledge base Notes: specific reference note
+
+
+Also checkout [[Garden/posts/Notes for Newbie Developers\|Notes for Newbie Developers]].
