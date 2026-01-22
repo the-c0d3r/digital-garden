@@ -34,17 +34,18 @@ This is where I will be putting notes that might be incomplete, atomic and unpol
 ## posts
 This is where I will be putting longer form posts that are more polished.
 
-| File                                                           | Last Modified    |
-| -------------------------------------------------------------- | ---------------- |
-| [[Garden/posts/wireguard\|wireguard]]                       | 2026-01-21 15:10 |
-| [[Garden/posts/Library Design\|Library Design]]             | 2026-01-21 14:50 |
-| [[Garden/posts/Linux permissions\|Linux permissions]]       | 2026-01-08 10:52 |
-| [[Garden/posts/The fear of starting\|The fear of starting]] | 2026-01-07 10:18 |
-| [[Garden/posts/Linked Note Exporter\|Linked Note Exporter]] | 2026-01-06 18:39 |
-| [[Garden/posts/Hugepages\|Hugepages]]                       | 2026-01-06 13:36 |
-| [[Garden/posts/Linux Process\|Linux Process]]               | 2026-01-05 22:44 |
-| [[Garden/posts/Linux Concepts\|Linux Concepts]]             | 2026-01-05 22:27 |
-| [[Garden/posts/OSCP Journey\|OSCP Journey]]                 | 2026-01-05 22:08 |
+| File                                                                                           | Last Modified    |
+| ---------------------------------------------------------------------------------------------- | ---------------- |
+| [[Garden/posts/Note taking for software development\|Note taking for software development]] | 2026-01-22 09:09 |
+| [[Garden/posts/wireguard\|wireguard]]                                                       | 2026-01-21 15:10 |
+| [[Garden/posts/Library Design\|Library Design]]                                             | 2026-01-21 14:50 |
+| [[Garden/posts/Linux permissions\|Linux permissions]]                                       | 2026-01-08 10:52 |
+| [[Garden/posts/The fear of starting\|The fear of starting]]                                 | 2026-01-07 10:18 |
+| [[Garden/posts/Linked Note Exporter\|Linked Note Exporter]]                                 | 2026-01-06 18:39 |
+| [[Garden/posts/Hugepages\|Hugepages]]                                                       | 2026-01-06 13:36 |
+| [[Garden/posts/Linux Process\|Linux Process]]                                               | 2026-01-05 22:44 |
+| [[Garden/posts/Linux Concepts\|Linux Concepts]]                                             | 2026-01-05 22:27 |
+| [[Garden/posts/OSCP Journey\|OSCP Journey]]                                                 | 2026-01-05 22:08 |
 
 { .block-language-dataview}
 
