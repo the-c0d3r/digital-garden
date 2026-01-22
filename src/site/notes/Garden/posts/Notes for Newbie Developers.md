@@ -59,7 +59,7 @@ Firstly understand [[10-Inbox/The definition of a Software Developer\|The defini
 
 ## Client user interaction
 
-- you have to drill down to what client/user really wants (aka, the intent) to avoid [[03-Resource/knowledge/XY problem\|XY problem]]
+- you have to drill down to what client/user really wants (aka, the intent) to avoid [[Garden/knowledge-base/XY problem\|XY problem]]
 - not everything user wants has to be in your project
 - you have the right to suggest the solution from your perspective, sometimes it will totally eliminate the requirement
 
