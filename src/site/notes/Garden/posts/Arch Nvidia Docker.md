@@ -3,7 +3,7 @@
 ---
 
 
-# [[Garden/posts/Arch Nvidia Docker\|Arch Nvidia Docker]]
+# Arch Nvidia Docker
 
 topics: [[02-Area/programming/Linux/Arch Linux\|Arch Linux]]
 tags: #commands #linux 
