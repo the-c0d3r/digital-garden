@@ -3,6 +3,8 @@
 ---
 
 
+# Pwning C programs with LD_PRELOAD
+
 This post will be talking about `LD_PRELOAD` environment variables and what they can be used for. This is usually used in C programming as well as CTF style challenges. It will be a bit easier to understand the examples if you have prior C knowledge and basic Linux knowledge.
 
 To talk about LD_PRELOAD, one needs to be familiar with static and dynamic linking of compiler
