@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/garden/index/","tags":["gardenEntry"],"created":"2026-01-05 21:28","updated":"2026-01-21 16:19"}
+{"dg-publish":true,"permalink":"/garden/index/","tags":["gardenEntry"],"created":"2026-01-05 21:28","updated":"2026-01-22 13:57"}
 ---
 
 
 # Index
-
 
 ## About me
 
@@ -42,12 +41,13 @@ This is where I will be putting longer form posts that are more polished.
 
 | File                                                                                           | Last Modified |
 | ---------------------------------------------------------------------------------------------- | ------------- |
+| [[Garden/posts/Pwning C programs with LD_PRELOAD\|Pwning C programs with LD_PRELOAD]]       | 23 Jan 2026   |
 | [[Garden/knowledge-base/XY problem\|XY problem]]                                            | 22 Jan 2026   |
 | [[Garden/posts/Problem Solving\|Problem Solving]]                                           | 22 Jan 2026   |
 | [[Garden/posts/Notes for Newbie Developers\|Notes for Newbie Developers]]                   | 22 Jan 2026   |
+| [[Garden/Index\|Index]]                                                                     | 22 Jan 2026   |
 | [[Garden/posts/Arch Nvidia Docker\|Arch Nvidia Docker]]                                     | 22 Jan 2026   |
 | [[Garden/posts/Note taking for software development\|Note taking for software development]] | 22 Jan 2026   |
-| [[Garden/Index\|Index]]                                                                     | 21 Jan 2026   |
 | [[Garden/posts/wireguard\|wireguard]]                                                       | 21 Jan 2026   |
 | [[Garden/posts/Library Design\|Library Design]]                                             | 21 Jan 2026   |
 | [[Garden/knowledge-base/3D Design - Blender\|3D Design - Blender]]                          | 19 Jan 2026   |
