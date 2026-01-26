@@ -17,14 +17,10 @@ The purpose of this site is to share my notes with the world and [[Garden/posts/
 
 In general I have notes for like
 - software development
-- #hacking 
 - #linux 
-
-My interests
-- [[02-Area/programming/Linux\|Linux]]
-- [[02-Area/hacking/Hacking\|Hacking]]
-- [[02-Area/programming/Programming\|Programming]]
-- [[03-Resource/knowledge/Knowledge\|Knowledge]]
+- #hacking 
+- #knowledge 
+- Programming
 
 ## Projects
 - my own obsidian plugin [[Garden/posts/Linked Note Exporter\|Linked Note Exporter]] 🚀
@@ -41,6 +37,7 @@ This is where I will be putting longer form posts that are more polished.
 
 | File                                                                                           | Last Modified |
 | ---------------------------------------------------------------------------------------------- | ------------- |
+| [[Garden/posts/How AI should be used\|How AI should be used]]                               | 26 Jan 2026   |
 | [[Garden/posts/Write in public\|Write in public]]                                           | 26 Jan 2026   |
 | [[Garden/posts/So what?\|So what?]]                                                         | 26 Jan 2026   |
 | [[Garden/posts/Pwning C programs with LD_PRELOAD\|Pwning C programs with LD_PRELOAD]]       | 23 Jan 2026   |
