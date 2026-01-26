@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/index/","tags":["gardenEntry"],"created":"2026-01-05 21:28","updated":"2026-01-22 13:57"}
+{"dg-publish":true,"permalink":"/garden/index/","tags":["gardenEntry"],"created":"2026-01-05 21:28","updated":"2026-01-22 16:03"}
 ---
 
 
@@ -13,7 +13,7 @@ LinkedIn: [linkedin.com/in/thuyeintun/](https://www.linkedin.com/in/thuyeintun/)
 
 Welcome to my digital garden. This is where I publish my [[03-Resource/knowledge/Obsidian\|Obsidian]] notes.
 
-The purpose of this site is to share my notes with the world and build in public. There might be links that seems dead, but those are my currently private notes that I am not publishing just yet, for a variety of reasons, maybe it is unpolished, maybe it contains sensitive data, etc. 
+The purpose of this site is to share my notes with the world and [[Garden/posts/Write in public\|Write in public]]. There might be links that seems dead, but those are my currently private notes that I am not publishing just yet, for a variety of reasons, maybe it is unpolished, maybe it contains sensitive data, etc. 
 
 In general I have notes for like
 - software development
@@ -31,7 +31,7 @@ My interests
 - my [dotfiles](https://github.com/the-c0d3r/dot-files) : recently I have been heavily into [[10-Inbox/Nix\|Nix]] to declaratively manage my packages, and dotfiles.
 
 ## knowledge-base
-This is where I will be putting notes that might be incomplete, atomic and unpolished.
+This is where I will be putting notes that might be incomplete, atomic and unpolished. This is mostly for my knowledge base notes, which are purely for reference purposes. 
 
 ## posts
 This is where I will be putting longer form posts that are more polished.
@@ -41,11 +41,13 @@ This is where I will be putting longer form posts that are more polished.
 
 | File                                                                                           | Last Modified |
 | ---------------------------------------------------------------------------------------------- | ------------- |
+| [[Garden/posts/Write in public\|Write in public]]                                           | 26 Jan 2026   |
+| [[Garden/posts/So what?\|So what?]]                                                         | 26 Jan 2026   |
 | [[Garden/posts/Pwning C programs with LD_PRELOAD\|Pwning C programs with LD_PRELOAD]]       | 23 Jan 2026   |
+| [[Garden/Index\|Index]]                                                                     | 22 Jan 2026   |
 | [[Garden/knowledge-base/XY problem\|XY problem]]                                            | 22 Jan 2026   |
 | [[Garden/posts/Problem Solving\|Problem Solving]]                                           | 22 Jan 2026   |
 | [[Garden/posts/Notes for Newbie Developers\|Notes for Newbie Developers]]                   | 22 Jan 2026   |
-| [[Garden/Index\|Index]]                                                                     | 22 Jan 2026   |
 | [[Garden/posts/Arch Nvidia Docker\|Arch Nvidia Docker]]                                     | 22 Jan 2026   |
 | [[Garden/posts/Note taking for software development\|Note taking for software development]] | 22 Jan 2026   |
 | [[Garden/posts/wireguard\|wireguard]]                                                       | 21 Jan 2026   |

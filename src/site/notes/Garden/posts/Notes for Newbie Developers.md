@@ -39,6 +39,7 @@ Firstly understand [[10-Inbox/The definition of a Software Developer\|The defini
 
 - talk about impact
     - you created a web ui, but what's the *real* value?
+    - Ask yourself [[Garden/posts/So what?\|So what?]] What makes it different?
 - Address the pain points
     - compare before and after scenarios
 - writing docs for users
