@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/how-ai-should-be-used/","tags":["llm"],"created":"2025-05-19 21:30","updated":"2026-01-26 13:22"}
+{"dg-publish":true,"permalink":"/garden/posts/how-ai-should-be-used/","tags":["llm"],"created":"2025-05-19 21:30","updated":"2026-01-29 16:04"}
 ---
 
 # [[Garden/posts/How AI should be used\|How AI should be used]]
@@ -31,7 +31,7 @@ tags: #llm
 - can't think of solution for you
 - can't make proper judgement calls
 - AI have a serious [[Garden/knowledge-base/XY problem\|XY problem]].
-    - it will only help you try to solve problem, but never stopping to ask why you need to solve it in the first place. 
+    - it will only help you try to solve problem, but never stopping to ask why you need to solve it in the first place.
 
 ---
 
