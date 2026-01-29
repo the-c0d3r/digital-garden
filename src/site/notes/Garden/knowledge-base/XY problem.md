@@ -17,3 +17,6 @@ The XY problem is asking about your attempted solution rather than your actual p
 - If there are other solutions you've already ruled out, share why you've ruled them out. This gives more information about your requirements.
 
 Remember that if your diagnostic theories were accurate, you wouldn't be asking for help right?
+
+Refernce: 
+- [Home - The XY Problem](https://xyproblem.info/)

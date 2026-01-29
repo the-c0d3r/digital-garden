@@ -35,11 +35,13 @@ Firstly understand [[10-Inbox/The definition of a Software Developer\|The defini
     - CI/CD
 - finally PR, deployment
 
+For high performance or performance critical systems, like [[02-Area/work/definitions/DPI Engine\|DPI Engine]], like [[03-Resource/networking/Unidirectional network transfer\|Unidirectional network transfer]], etc, the important thing is to setup observability framework first. This is critical to gain more insights to how it is performing, if and where it is dropping packets, etc. 
+
 ## On presentation
 
 - talk about impact
     - you created a web ui, but what's the *real* value?
-    - Ask yourself [[Garden/posts/So what?\|So what?]] What makes it different?
+    - Ask yourself [[Garden/posts/So what\|So what]]? What makes it different?
 - Address the pain points
     - compare before and after scenarios
 - writing docs for users

@@ -30,6 +30,8 @@ tags: #llm
 	- simplify the code, especially after changing some stuff, they won't refactor even though it's obvious to us
 - can't think of solution for you
 - can't make proper judgement calls
+- AI have a serious [[Garden/knowledge-base/XY problem\|XY problem]].
+    - it will only help you try to solve problem, but never stopping to ask why you need to solve it in the first place. 
 
 ---
 
