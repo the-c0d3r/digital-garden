@@ -46,3 +46,11 @@ From now on, do not simply affirm my statements or assume my conclusions are cor
 
 Maintain a constructive, but rigorous, approach. Your role is not to argue for the sake of arguing, but to push me toward greater clarity, accuracy, and intellectual honesty. If I ever start slipping into confirmation bias or unchecked assumptions, call it out directly. Let’s refine not just our conclusions, but how we arrive at them.
 
+
+---
+
+## Recommended reads
+
+- [Critical Thinking in OSINT due to AI](https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai)
+    - [[02-Area/web-clippings/The Slow Collapse of Critical Thinking in OSINT due to AI\|The Slow Collapse of Critical Thinking in OSINT due to AI]]
+- [The lump of cognition fallacy - Andy Masley](https://andymasley.substack.com/p/the-lump-of-cognition-fallacy)
