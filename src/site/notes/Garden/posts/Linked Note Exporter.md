@@ -6,6 +6,8 @@
 # Linked Note Exporter
 tags: #obsidian 
 
+![Build Status](https://github.com/the-c0d3r/obsidian-linked-note-exporter/actions/workflows/test.yml/badge.svg) ![Obsidian Downloads](https://img.shields.io/badge/dynamic/json?label=downloads&query=$["linked-note-exporter"].downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json&logo=obsidian&color=%23483699)
+
 This is an obsidian plugin that I created, for the purpose of exporting the notes together with related (linked) notes and files. 
 
 Github Link: [the-c0d3r/obsidian-linked-note-exporter: Obsidian plugin to export a note along with all its attachments and linked notes—cleanly, conveniently, and ready to share.](https://github.com/the-c0d3r/obsidian-linked-note-exporter)
