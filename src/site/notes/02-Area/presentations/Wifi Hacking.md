@@ -33,17 +33,17 @@ Guaranteed compromise with **5 mins** capture
 
 ## WEP hacking
 
-![](https://img.wonderhowto.com/img/61/43/63514407572583/0/hack-wi-fi-cracking-wep-passwords-with-aircrack-ng.w1456.jpg)
+![Wifi Hacking-1.jpg](/img/user/03-Resource/Attachments/Wifi%20Hacking-1.jpg)
 1. interface monitor mode with `airmon-ng`
 
 ---
 
-![](https://img.wonderhowto.com/img/05/04/63514407593160/0/hack-wi-fi-cracking-wep-passwords-with-aircrack-ng.w1456.jpg)
+![Wifi Hacking-2.jpg](/img/user/03-Resource/Attachments/Wifi%20Hacking-2.jpg)
 2. capture WEP AP packets, check for roughly 5000 IVs
 
 ---
 
-![](https://img.wonderhowto.com/img/87/51/63658281421097/0/hack-wi-fi-hunting-down-cracking-wep-networks.w1456.jpg)
+![Wifi Hacking-3.jpg](/img/user/03-Resource/Attachments/Wifi%20Hacking-3.jpg)
 3. crack with `aircrack-ng`
 
 ---
