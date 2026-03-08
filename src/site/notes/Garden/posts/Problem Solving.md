@@ -50,3 +50,12 @@ Related:
 Before you start even coding a single line, look at the data, study it. 
 Get intimate with it.
 
+
+
+---
+
+References:
+- [Thomas Edison's sleep problem solving technique](https://www.scientificamerican.com/article/thomas-edisons-naps-inspire-a-way-to-spark-your-own-creativity/) seems to be backed by science. Basically, think about problem before sleeping, then sleep holding a metallic object above a metallic plate, so that when you fall asleep, you will inevitably release the object, striking the metallic plate and you will wake up. And in that brief moment, you shall know how to solve the problem.
+{ #a6d60d}
+
+- this is the [[10-Inbox/sleep visualisation\|sleep visualisation]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/wireguard/","tags":["software","config"],"created":"2023-12-12T11:02:27+08:00","updated":"2026-01-21 15:10"}
+{"dg-publish":true,"permalink":"/garden/posts/wireguard/","tags":["software","config"],"created":"2023-12-12T11:02:27+08:00","updated":"2026-01-21 16:11"}
 ---
 
 # [[Garden/posts/wireguard\|wireguard]]

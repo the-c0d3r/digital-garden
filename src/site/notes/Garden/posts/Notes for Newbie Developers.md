@@ -124,7 +124,7 @@ Make sure your solution works end to end, before optimising stuff.
 ## Resources
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [Programming Paradigms (Stanford) - YouTube](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PL9D558D49CA734A02)
-- [[03-Resource/knowledge/Spaced Repetition\|Spaced Repetition]]
+- [[Garden/knowledge-base/Spaced Repetition\|Spaced Repetition]]
 - [[02-Area/web-clippings/Building a Second Brain The Illustrated Notes\|Building a Second Brain The Illustrated Notes]]
 - Hacking
     - [[10-Inbox/pwn.college\|pwn.college]]

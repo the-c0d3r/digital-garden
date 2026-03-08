@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/ipmi/","created":"2022-10-26T22:03+08:00","updated":"2026-01-15 15:40"}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/ipmi/","created":"2022-10-26T22:03+08:00","updated":"2026-01-15 21:28"}
 ---
 
 # IPMI

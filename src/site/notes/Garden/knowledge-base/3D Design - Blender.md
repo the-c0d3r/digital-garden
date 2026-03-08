@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/3-d-design-blender/","created":"2025-10-15 11:19","updated":"2026-01-19 13:57"}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/3-d-design-blender/","created":"2025-10-15 11:19","updated":"2026-01-21 18:32"}
 ---
 
 # [[Garden/knowledge-base/3D Design - Blender\|3D Design - Blender]]

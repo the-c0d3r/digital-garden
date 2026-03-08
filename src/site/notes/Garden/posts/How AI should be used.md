@@ -49,8 +49,23 @@ Maintain a constructive, but rigorous, approach. Your role is not to argue for t
 
 ---
 
+## Vibe coding
+
+Doing this in a language I know makes me feel like I lost control of the code base. So after some trial and error, I found a way to make it work. 
+
+Asking AI to write is similar to asking another person (e.g. an intern) to write code for me. When I need to change stuff, I don't want to read through those horrible code myself, so I just ask the person to change. Similar to the AI case here. 
+
+1. don't let AI write the whole project. specify the MVP first
+2. I make the plan, which file should contain what, and do what. Then AI fills in the blanks. 
+3. Incrementally add features, and manually go through the diff and accept/reject them.
+
+This way, I have full control over the codebase, and I also have great familiarity with it. This actually boost my productivity, but I still have to tell it to refactor it, and question when it blatantly duplicate code.
+
+---
+
 ## Recommended reads
 
 - [Critical Thinking in OSINT due to AI](https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai)
     - [[02-Area/web-clippings/The Slow Collapse of Critical Thinking in OSINT due to AI\|The Slow Collapse of Critical Thinking in OSINT due to AI]]
 - [The lump of cognition fallacy - Andy Masley](https://andymasley.substack.com/p/the-lump-of-cognition-fallacy)
+- [Doodledapp - AI made every test pass. The code was still wrong.](https://doodledapp.com/feed/ai-made-every-test-pass-the-code-was-still-wrong)

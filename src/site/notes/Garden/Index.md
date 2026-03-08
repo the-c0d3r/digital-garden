@@ -10,7 +10,6 @@
 Github: [the-c0d3r](https://github.com/the-c0d3r/)
 LinkedIn: [linkedin.com/in/thuyeintun/](https://www.linkedin.com/in/thuyeintun/)
 
-
 Welcome to my digital garden. This is where I publish my [[03-Resource/knowledge/Obsidian\|Obsidian]] notes.
 
 The purpose of this site is to share my notes with the world and [[Garden/posts/Write in public\|Write in public]]. There might be links that seems dead, but those are my currently private notes that I am not publishing just yet, for a variety of reasons, maybe it is unpolished, maybe it contains sensitive data, etc. 
@@ -37,6 +36,7 @@ This is where I will be putting longer form posts that are more polished.
 
 | File                                                                                           | Last Modified |
 | ---------------------------------------------------------------------------------------------- | ------------- |
+| [[Garden/knowledge-base/Spaced Repetition\|Spaced Repetition]]                              | 11 Feb 2026   |
 | [[Garden/posts/How AI should be used\|How AI should be used]]                               | 29 Jan 2026   |
 | [[Garden/posts/Write in public\|Write in public]]                                           | 26 Jan 2026   |
 | [[Garden/posts/So what\|So what]]                                                           | 26 Jan 2026   |
@@ -44,25 +44,25 @@ This is where I will be putting longer form posts that are more polished.
 | [[Garden/Index\|Index]]                                                                     | 22 Jan 2026   |
 | [[Garden/knowledge-base/XY problem\|XY problem]]                                            | 22 Jan 2026   |
 | [[Garden/posts/Problem Solving\|Problem Solving]]                                           | 22 Jan 2026   |
+| [[Garden/posts/Note taking for software development\|Note taking for software development]] | 22 Jan 2026   |
 | [[Garden/posts/Notes for Newbie Developers\|Notes for Newbie Developers]]                   | 22 Jan 2026   |
 | [[Garden/posts/Arch Nvidia Docker\|Arch Nvidia Docker]]                                     | 22 Jan 2026   |
-| [[Garden/posts/Note taking for software development\|Note taking for software development]] | 22 Jan 2026   |
+| [[Garden/knowledge-base/3D Design - Blender\|3D Design - Blender]]                          | 21 Jan 2026   |
 | [[Garden/posts/wireguard\|wireguard]]                                                       | 21 Jan 2026   |
 | [[Garden/posts/Library Design\|Library Design]]                                             | 21 Jan 2026   |
-| [[Garden/knowledge-base/3D Design - Blender\|3D Design - Blender]]                          | 19 Jan 2026   |
 | [[Garden/knowledge-base/man page\|man page]]                                                | 19 Jan 2026   |
+| [[Garden/knowledge-base/Vim\|Vim]]                                                          | 19 Jan 2026   |
 | [[Garden/knowledge-base/IPMI\|IPMI]]                                                        | 15 Jan 2026   |
 | [[Garden/posts/Linux permissions\|Linux permissions]]                                       | 08 Jan 2026   |
 | [[Garden/posts/The fear of starting\|The fear of starting]]                                 | 07 Jan 2026   |
 | [[Garden/posts/Linked Note Exporter\|Linked Note Exporter]]                                 | 06 Jan 2026   |
 | [[Garden/posts/Hugepages\|Hugepages]]                                                       | 06 Jan 2026   |
 | [[Garden/knowledge-base/Linux Capabilities\|Linux Capabilities]]                            | 06 Jan 2026   |
+| [[Garden/posts/Linux Concepts\|Linux Concepts]]                                             | 06 Jan 2026   |
 | [[Garden/knowledge-base/ELF\|ELF]]                                                          | 06 Jan 2026   |
+| [[Garden/knowledge-base/Everything is a file\|Everything is a file]]                        | 06 Jan 2026   |
 | [[Garden/posts/Linux Process\|Linux Process]]                                               | 05 Jan 2026   |
-| [[Garden/knowledge-base/Everything is a file\|Everything is a file]]                        | 05 Jan 2026   |
-| [[Garden/posts/Linux Concepts\|Linux Concepts]]                                             | 05 Jan 2026   |
 | [[Garden/posts/OSCP Journey\|OSCP Journey]]                                                 | 05 Jan 2026   |
-| [[Garden/knowledge-base/Vim\|Vim]]                                                          | 27 Aug 2025   |
 
 { .block-language-dataview}
 
