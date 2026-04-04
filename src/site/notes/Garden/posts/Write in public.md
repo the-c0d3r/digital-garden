@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/write-in-public/","created":"2026-01-26 10:36","updated":"2026-01-26 10:44"}
+{"dg-publish":true,"permalink":"/garden/posts/write-in-public/","created":"2026-01-26 10:36","updated":"2026-01-26 10:44","dg-note-properties":{"modified_date":"2026-01-26 10:44","creation_date":"2026-01-26 10:36"}}
 ---
 
 # Write in public

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Garden/knowledge-base/hacking/references/Rbash Escape.md","permalink":"/garden/knowledge-base/hacking/references/rbash-escape/","tags":["commands"],"created":"2024-05-19 18:01","updated":"2026-03-08 20:49"}
+{"dg-publish":true,"dg-path":"Garden/knowledge-base/hacking/references/Rbash Escape.md","permalink":"/garden/knowledge-base/hacking/references/rbash-escape/","tags":["commands"],"created":"2024-05-19 18:01","updated":"2026-03-08 20:49","dg-note-properties":{"tags":["commands"],"creation_date":"2024-05-19 18:01","modified_date":"2026-03-08 20:49"}}
 ---
 
 # Rbash Escape

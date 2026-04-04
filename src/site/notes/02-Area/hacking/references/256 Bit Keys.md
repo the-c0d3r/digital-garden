@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Garden/knowledge-base/hacking/references/256 Bit Keys.md","permalink":"/garden/knowledge-base/hacking/references/256-bit-keys/","created":"2021-01-24 16:00","updated":"2026-03-08 20:46"}
+{"dg-publish":true,"dg-path":"Garden/knowledge-base/hacking/references/256 Bit Keys.md","permalink":"/garden/knowledge-base/hacking/references/256-bit-keys/","created":"2021-01-24 16:00","updated":"2026-03-08 20:46","dg-note-properties":{"creation_date":"2021-01-24 16:00","modified_date":"2026-03-08 20:46","aliases":["AES 256 bit"]}}
 ---
 
 # 256 Bit Keys

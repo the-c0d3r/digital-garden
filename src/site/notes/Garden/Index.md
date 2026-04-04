@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/index/","tags":["gardenEntry"],"created":"2026-01-05 21:28","updated":"2026-01-22 16:03"}
+{"dg-publish":true,"permalink":"/garden/index/","tags":["gardenEntry"],"created":"2026-01-05 21:28","updated":"2026-01-22 16:03","dg-note-properties":{"modified_date":"2026-01-22 16:03","creation_date":"2026-01-05 21:28"}}
 ---
 
 
@@ -36,8 +36,11 @@ This is where I will be putting longer form posts that are more polished.
 
 | File                                                                                           | Last Modified |
 | ---------------------------------------------------------------------------------------------- | ------------- |
+| [[Garden/knowledge-base/dot.namespaced.hierarchies\|dot.namespaced.hierarchies]]            | 04 Apr 2026   |
+| [[Garden/posts/Classification via compression\|Classification via compression]]             | 04 Apr 2026   |
+| [[Garden/knowledge-base/IPMI\|IPMI]]                                                        | 30 Mar 2026   |
+| [[Garden/posts/How AI should be used\|How AI should be used]]                               | 26 Mar 2026   |
 | [[Garden/knowledge-base/Spaced Repetition\|Spaced Repetition]]                              | 11 Feb 2026   |
-| [[Garden/posts/How AI should be used\|How AI should be used]]                               | 29 Jan 2026   |
 | [[Garden/posts/Write in public\|Write in public]]                                           | 26 Jan 2026   |
 | [[Garden/posts/So what\|So what]]                                                           | 26 Jan 2026   |
 | [[Garden/posts/Pwning C programs with LD_PRELOAD\|Pwning C programs with LD_PRELOAD]]       | 23 Jan 2026   |
@@ -52,7 +55,6 @@ This is where I will be putting longer form posts that are more polished.
 | [[Garden/posts/Library Design\|Library Design]]                                             | 21 Jan 2026   |
 | [[Garden/knowledge-base/man page\|man page]]                                                | 19 Jan 2026   |
 | [[Garden/knowledge-base/Vim\|Vim]]                                                          | 19 Jan 2026   |
-| [[Garden/knowledge-base/IPMI\|IPMI]]                                                        | 15 Jan 2026   |
 | [[Garden/posts/Linux permissions\|Linux permissions]]                                       | 08 Jan 2026   |
 | [[Garden/posts/The fear of starting\|The fear of starting]]                                 | 07 Jan 2026   |
 | [[Garden/posts/Linked Note Exporter\|Linked Note Exporter]]                                 | 06 Jan 2026   |

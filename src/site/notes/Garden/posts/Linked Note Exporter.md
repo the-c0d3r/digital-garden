@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/linked-note-exporter/","created":"2026-01-06T18:39:46+08:00","updated":"2026-01-06 18:39"}
+{"dg-publish":true,"permalink":"/garden/posts/linked-note-exporter/","created":"2026-01-06T18:39:46+08:00","updated":"2026-01-06 18:39","dg-note-properties":{"modified_date":"2026-01-06 18:39","creation_date":"2026-01-06T18:39:46+08:00"}}
 ---
 
 

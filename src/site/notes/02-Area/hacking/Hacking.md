@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Garden/knowledge-base/hacking/Hacking.md","permalink":"/garden/knowledge-base/hacking/hacking/","created":"2021-10-27T19:43:42+08:00","updated":"2023-10-03T21:13+08:00"}
+{"dg-publish":true,"dg-path":"Garden/knowledge-base/hacking/Hacking.md","permalink":"/garden/knowledge-base/hacking/hacking/","created":"2021-10-27T19:43:42+08:00","updated":"2023-10-03T21:13+08:00","dg-note-properties":{"creation_date":"2021-10-27T19:43:42+08:00","modified_date":"2023-10-03T21:13+08:00"}}
 ---
 
 # Map Of Content

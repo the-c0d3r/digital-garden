@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Garden/knowledge-base/hacking/references/File Transfer Commands.md","permalink":"/garden/knowledge-base/hacking/references/file-transfer-commands/","tags":["commands"],"created":"2024-05-19 18:02","updated":"2026-03-08 20:47"}
+{"dg-publish":true,"dg-path":"Garden/knowledge-base/hacking/references/File Transfer Commands.md","permalink":"/garden/knowledge-base/hacking/references/file-transfer-commands/","tags":["commands"],"created":"2024-05-19 18:02","updated":"2026-03-08 20:47","dg-note-properties":{"tags":["commands"],"creation_date":"2024-05-19 18:02","modified_date":"2026-03-08 20:47"}}
 ---
 
 # File Transfer commands

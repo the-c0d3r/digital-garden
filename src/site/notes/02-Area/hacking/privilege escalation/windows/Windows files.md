@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Garden/knowledge-base/hacking/privilege escalation/windows/Windows files.md","permalink":"/garden/knowledge-base/hacking/privilege-escalation/windows/windows-files/","created":"2024-05-19 18:07","updated":"2026-03-08 20:46"}
+{"dg-publish":true,"dg-path":"Garden/knowledge-base/hacking/privilege escalation/windows/Windows files.md","permalink":"/garden/knowledge-base/hacking/privilege-escalation/windows/windows-files/","created":"2024-05-19 18:07","updated":"2026-03-08 20:46","dg-note-properties":{"creation_date":"2024-05-19 18:07","modified_date":"2026-03-08 20:46"}}
 ---
 
 # Windows files

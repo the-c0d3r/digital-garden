@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/linux-permissions/","tags":["linx","config","scripts"],"created":"2025-08-18T12:14:12+08:00","updated":"2026-01-08 10:52"}
+{"dg-publish":true,"permalink":"/garden/posts/linux-permissions/","tags":["linx","config","scripts"],"created":"2025-08-18T12:14:12+08:00","updated":"2026-01-08 10:52","dg-note-properties":{"modified_date":"2026-01-08 10:52","creation_date":"2025-08-18T12:14:12+08:00","tags":["linx","config","scripts"],"aliases":["setfacl","getfacl"]}}
 ---
 
 # [[Garden/posts/Linux permissions\|Linux permissions]]

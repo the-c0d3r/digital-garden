@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/ipmi/","created":"2022-10-26T22:03+08:00","updated":"2026-01-15 21:28"}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/ipmi/","created":"2022-10-26 22:00","updated":"2026-03-30 11:52","dg-note-properties":{"modified_date":"2026-03-30 11:52","aliases":["ipmitool","reset iLo password"],"creation_date":"2022-10-26 22:00"}}
 ---
 
 # IPMI
 
-This is a tool to interact with the out of bound management interface of servers, such as iLO (HPE), iDRAC (dell) and BMC (supermicro). 
+This is a tool to interact with the out of bound management interface of servers, such as iLO (HPE), iDRAC (dell) and BMC (supermicro).
 
 You can use it to do the following for iLO/iDRAC/BMC
 1. reset admin password
@@ -65,7 +65,6 @@ ipmitool lan set 1 ipaddr 10.0.1.3
 ipmitool lan set 1 netmask 255.255.255.0
 ipmitool lan set 1 defgw ipaddr 10.0.1.254
 ```
-
 
 ## Test user account
 

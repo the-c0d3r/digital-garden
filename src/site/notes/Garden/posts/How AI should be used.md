@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/how-ai-should-be-used/","tags":["llm"],"created":"2025-05-19 21:30","updated":"2026-01-29 16:04"}
+{"dg-publish":true,"permalink":"/garden/posts/how-ai-should-be-used/","tags":["llm"],"created":"2025-05-19 21:30","updated":"2026-03-26 09:54","dg-note-properties":{"modified_date":"2026-03-26 09:54","creation_date":"2025-05-19 21:30","tags":["llm"],"aliases":["How I use AI"]}}
 ---
 
 # [[Garden/posts/How AI should be used\|How AI should be used]]
@@ -51,12 +51,12 @@ Maintain a constructive, but rigorous, approach. Your role is not to argue for t
 
 ## Vibe coding
 
-Doing this in a language I know makes me feel like I lost control of the code base. So after some trial and error, I found a way to make it work. 
+Doing this in a language I know makes me feel like I lost control of the code base. So after some trial and error, I found a way to make it work.
 
-Asking AI to write is similar to asking another person (e.g. an intern) to write code for me. When I need to change stuff, I don't want to read through those horrible code myself, so I just ask the person to change. Similar to the AI case here. 
+Asking AI to write is similar to asking another person (e.g. an intern) to write code for me. When I need to change stuff, I don't want to read through those horrible code myself, so I just ask the person to change. Similar to the AI case here.
 
 1. don't let AI write the whole project. specify the MVP first
-2. I make the plan, which file should contain what, and do what. Then AI fills in the blanks. 
+2. I make the plan, which file should contain what, and do what. Then AI fills in the blanks.
 3. Incrementally add features, and manually go through the diff and accept/reject them.
 
 This way, I have full control over the codebase, and I also have great familiarity with it. This actually boost my productivity, but I still have to tell it to refactor it, and question when it blatantly duplicate code.

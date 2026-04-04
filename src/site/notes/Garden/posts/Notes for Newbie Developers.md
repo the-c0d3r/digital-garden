@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/notes-for-newbie-developers/","tags":["philosophy"],"created":"2021-10-21 08:17","updated":"2026-01-22 14:00"}
+{"dg-publish":true,"permalink":"/garden/posts/notes-for-newbie-developers/","tags":["philosophy"],"created":"2021-10-21 08:17","updated":"2026-01-22 14:00","dg-note-properties":{"creation_date":"2021-10-21 08:17","modified_date":"2026-01-22 14:00","tags":["philosophy"]}}
 ---
 
 # Notes for Newbie Developers

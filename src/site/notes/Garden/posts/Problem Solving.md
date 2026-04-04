@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/problem-solving/","tags":["evergreen","philosophy"],"created":"2023-04-03 11:56","updated":"2026-01-22 14:03"}
+{"dg-publish":true,"permalink":"/garden/posts/problem-solving/","tags":["evergreen","philosophy"],"created":"2023-04-03 11:56","updated":"2026-01-22 14:03","dg-note-properties":{"creation_date":"2023-04-03 11:56","modified_date":"2026-01-22 14:03","alias":["problem solving by subtraction","problem solving by removing"],"tags":["evergreen","philosophy"]}}
 ---
 
 

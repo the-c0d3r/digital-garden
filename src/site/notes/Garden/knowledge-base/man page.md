@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/man-page/","tags":["linux","commands"],"created":"2021-12-23 15:27","updated":"2026-01-19 10:14"}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/man-page/","tags":["linux","commands"],"created":"2021-12-23 15:27","updated":"2026-01-19 10:14","dg-note-properties":{"modified_date":"2026-01-19 10:14","creation_date":"2021-12-23 15:27","alias":["manpage","manual page"],"tags":["linux","commands"]}}
 ---
 
 # [[Garden/knowledge-base/man page\|man page]]

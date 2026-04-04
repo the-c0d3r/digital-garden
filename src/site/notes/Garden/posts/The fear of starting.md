@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/the-fear-of-starting/","created":"2024-05-19","updated":"2026-01-07 10:18"}
+{"dg-publish":true,"permalink":"/garden/posts/the-fear-of-starting/","created":"2024-05-19","updated":"2026-01-07 10:18","dg-note-properties":{"modified_date":"2026-01-07 10:18","creation_date":"2024-05-19"}}
 ---
 
 

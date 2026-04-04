@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Garden/knowledge-base/hacking/references/Hacking Tools.md","permalink":"/garden/knowledge-base/hacking/references/hacking-tools/","tags":["moc","hacking"],"created":"2024-05-19 18:01","updated":"2026-03-08 20:48"}
+{"dg-publish":true,"dg-path":"Garden/knowledge-base/hacking/references/Hacking Tools.md","permalink":"/garden/knowledge-base/hacking/references/hacking-tools/","tags":["moc","hacking"],"created":"2024-05-19 18:01","updated":"2026-03-08 20:48","dg-note-properties":{"tags":["moc","hacking"],"creation_date":"2024-05-19 18:01","modified_date":"2026-03-08 20:48"}}
 ---
 
 # Tools

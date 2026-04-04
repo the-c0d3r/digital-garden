@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/hugepages/","tags":["#programming/linux","#config"],"created":"2021-10-22T09:42:50+08:00","updated":"2026-01-06 13:36"}
+{"dg-publish":true,"permalink":"/garden/posts/hugepages/","tags":["#programming/linux","#config"],"created":"2021-10-22T09:42:50+08:00","updated":"2026-01-06 13:36","dg-note-properties":{"modified_date":"2026-01-06 13:36","tags":["#programming/linux","#config"],"creation_date":"2021-10-22T09:42:50+08:00"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Garden/knowledge-base/presentations/Wifi Hacking.md","permalink":"/garden/knowledge-base/presentations/wifi-hacking/","tags":["presentation","hacking"],"created":"2024-05-19 17:57","updated":"2026-03-08 20:46"}
+{"dg-publish":true,"dg-path":"Garden/knowledge-base/presentations/Wifi Hacking.md","permalink":"/garden/knowledge-base/presentations/wifi-hacking/","tags":["presentation","hacking"],"created":"2024-05-19 17:57","updated":"2026-03-08 20:53","dg-note-properties":{"tags":["presentation","hacking"],"creation_date":"2024-05-19 17:57","modified_date":"2026-03-08 20:53"}}
 ---
 
 # Wifi Hacking
