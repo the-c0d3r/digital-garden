@@ -5,7 +5,7 @@
 # [[Garden/posts/Linux permissions\|Linux permissions]]
 
 topic: [[02-Area/programming/Linux\|Linux]]
-related: [[10-Inbox/Linux users\|Linux users]]
+related: [[Garden/knowledge-base/Linux users\|Linux users]]
 
 - Classic UNIX DAC
     - chmod: Set read/write/execute bits for user/group/other  

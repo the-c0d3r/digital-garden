@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/garden/knowledge-base/dot-namespaced-hierarchies/","tags":["knowledge"],"created":"2023-08-18 09:21","updated":"2026-04-04 16:14","dg-note-properties":{"modified_date":"2026-04-04 16:14","creation_date":"2023-08-18 09:21","tags":["knowledge"]}}
 ---
 
-# [[Garden/knowledge-base/dot.namespaced.hierarchies\|dot.namespaced.hierarchies]]
+# dot.namespaced.hierarchies
 
 topics: [[01-Project/012-Efforts/ongoing/Knowledge Management\|Knowledge Management]]
 

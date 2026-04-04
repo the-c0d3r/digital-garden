@@ -36,6 +36,8 @@ This is where I will be putting longer form posts that are more polished.
 
 | File                                                                                           | Last Modified |
 | ---------------------------------------------------------------------------------------------- | ------------- |
+| [[Garden/knowledge-base/Linux users\|Linux users]]                                          | 04 Apr 2026   |
+| [[Garden/knowledge-base/grep highlight\|grep highlight]]                                    | 04 Apr 2026   |
 | [[Garden/knowledge-base/dot.namespaced.hierarchies\|dot.namespaced.hierarchies]]            | 04 Apr 2026   |
 | [[Garden/posts/Classification via compression\|Classification via compression]]             | 04 Apr 2026   |
 | [[Garden/knowledge-base/IPMI\|IPMI]]                                                        | 30 Mar 2026   |
