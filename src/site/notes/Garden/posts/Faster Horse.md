@@ -4,4 +4,6 @@
 
 # Faster Horse
 
-If the guy invented car were to ask the customer what they wanted, they would say "Faster Horse".
+If the guy who invented car were to ask the customer what they wanted, they would have said "Faster Horse".
+
+This is to say that you cannot rely on customer to tell you want they want, especially for IT or technical stuff. 
