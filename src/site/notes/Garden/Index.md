@@ -36,6 +36,7 @@ This is where I will be putting longer form posts that are more polished.
 
 | File                                                                                           | Last Modified |
 | ---------------------------------------------------------------------------------------------- | ------------- |
+| [[Garden/posts/Why use a todo app\|Why use a todo app]]                                     | 18 Apr 2026   |
 | [[Garden/knowledge-base/FEC\|FEC]]                                                          | 18 Apr 2026   |
 | [[Garden/posts/Faster Horse\|Faster Horse]]                                                 | 18 Apr 2026   |
 | [[Garden/knowledge-base/FAISS\|FAISS]]                                                      | 18 Apr 2026   |

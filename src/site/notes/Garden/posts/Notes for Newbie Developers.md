@@ -80,6 +80,7 @@ News reader such as [[10-Inbox/inoreader\|inoreader]], hacker news to keep up wi
 
 ## Learn [[Garden/posts/Problem Solving\|Problem Solving]]
 
+- [[Garden/posts/Why use a todo app\|Why use a todo app]]?
 - [[Hardware and Software fundamentals\|Hardware and Software fundamentals]]
 - [[02-Area/web-clippings/Back to Basics\|Back to Basics]]
 - [[02-Area/web-clippings/Choose Boring Technology\|Choose Boring Technology]]
