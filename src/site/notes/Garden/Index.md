@@ -36,6 +36,9 @@ This is where I will be putting longer form posts that are more polished.
 
 | File                                                                                           | Last Modified |
 | ---------------------------------------------------------------------------------------------- | ------------- |
+| [[Garden/knowledge-base/FEC\|FEC]]                                                          | 18 Apr 2026   |
+| [[Garden/posts/Faster Horse\|Faster Horse]]                                                 | 18 Apr 2026   |
+| [[Garden/knowledge-base/FAISS\|FAISS]]                                                      | 18 Apr 2026   |
 | [[Garden/knowledge-base/Emergent System\|Emergent System]]                                  | 18 Apr 2026   |
 | [[Garden/knowledge-base/base64\|base64]]                                                    | 18 Apr 2026   |
 | [[Garden/knowledge-base/browser fingerprinting\|browser fingerprinting]]                    | 18 Apr 2026   |

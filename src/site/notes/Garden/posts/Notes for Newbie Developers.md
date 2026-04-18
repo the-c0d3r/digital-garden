@@ -63,6 +63,7 @@ For high performance or performance critical systems, like [[02-Area/work/defini
 ## Client user interaction
 
 - you have to drill down to what client/user really wants (aka, the intent) to avoid [[Garden/knowledge-base/XY problem\|XY problem]]
+    - if you ask client what they want, they would have said [[Garden/posts/Faster Horse\|Faster Horse]].
 - not everything user wants has to be in your project
 - you have the right to suggest the solution from your perspective, sometimes it will totally eliminate the requirement
 
