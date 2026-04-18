@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/how-ai-should-be-used/","tags":["llm"],"created":"2025-05-19 21:30","updated":"2026-03-26 09:54","dg-note-properties":{"modified_date":"2026-03-26 09:54","creation_date":"2025-05-19 21:30","tags":["llm"],"aliases":["How I use AI"]}}
+{"dg-publish":true,"permalink":"/garden/posts/how-ai-should-be-used/","tags":["llm"],"created":"2025-05-19 21:30","updated":"2026-04-07 22:11","dg-note-properties":{"modified_date":"2026-04-07 22:11","creation_date":"2025-05-19 21:30","tags":["llm"],"aliases":["How I use AI","How to use AI"]}}
 ---
 
-# [[Garden/posts/How AI should be used\|How AI should be used]]
+# How AI should be used
 
 topic: [[02-Area/programming/AI/Large Language Model\|LLM]]
-tags: #llm
 
 ## When you want to save time
 
@@ -19,6 +18,7 @@ tags: #llm
 
 - ask for it how to start learning about a topic
     - what are the keywords you should know about
+- when you want to brainstorm for new ideas
 
 ## Note
 
@@ -45,7 +45,6 @@ From now on, do not simply affirm my statements or assume my conclusions are cor
 5. Prioritize truth over agreement. If I am wrong or my logic is weak, I need to know. Correct me clearly and explain why.”
 
 Maintain a constructive, but rigorous, approach. Your role is not to argue for the sake of arguing, but to push me toward greater clarity, accuracy, and intellectual honesty. If I ever start slipping into confirmation bias or unchecked assumptions, call it out directly. Let’s refine not just our conclusions, but how we arrive at them.
-
 
 ---
 
