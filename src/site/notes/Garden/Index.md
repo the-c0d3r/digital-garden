@@ -36,6 +36,9 @@ This is where I will be putting longer form posts that are more polished.
 
 | File                                                                                           | Last Modified |
 | ---------------------------------------------------------------------------------------------- | ------------- |
+| [[Garden/knowledge-base/Second System Effect\|Second System Effect]]                        | 18 Apr 2026   |
+| [[Garden/knowledge-base/Complex system\|Complex system]]                                    | 18 Apr 2026   |
+| [[Garden/knowledge-base/First Principles\|First Principles]]                                | 18 Apr 2026   |
 | [[Garden/posts/Why use a todo app\|Why use a todo app]]                                     | 18 Apr 2026   |
 | [[Garden/knowledge-base/FEC\|FEC]]                                                          | 18 Apr 2026   |
 | [[Garden/posts/Faster Horse\|Faster Horse]]                                                 | 18 Apr 2026   |
