@@ -34,52 +34,11 @@ This is where I will be putting longer form posts that are more polished.
 
 ## Recently published
 
-| File                                                                                           | Last Modified |
-| ---------------------------------------------------------------------------------------------- | ------------- |
-| [[Garden/knowledge-base/Second System Effect\|Second System Effect]]                        | 18 Apr 2026   |
-| [[Garden/knowledge-base/Complex system\|Complex system]]                                    | 18 Apr 2026   |
-| [[Garden/knowledge-base/First Principles\|First Principles]]                                | 18 Apr 2026   |
-| [[Garden/posts/Why use a todo app\|Why use a todo app]]                                     | 18 Apr 2026   |
-| [[Garden/knowledge-base/FEC\|FEC]]                                                          | 18 Apr 2026   |
-| [[Garden/posts/Faster Horse\|Faster Horse]]                                                 | 18 Apr 2026   |
-| [[Garden/knowledge-base/FAISS\|FAISS]]                                                      | 18 Apr 2026   |
-| [[Garden/knowledge-base/Emergent System\|Emergent System]]                                  | 18 Apr 2026   |
-| [[Garden/knowledge-base/base64\|base64]]                                                    | 18 Apr 2026   |
-| [[Garden/knowledge-base/browser fingerprinting\|browser fingerprinting]]                    | 18 Apr 2026   |
-| [[Garden/knowledge-base/ARP\|ARP]]                                                          | 18 Apr 2026   |
-| [[Garden/posts/How AI should be used\|How AI should be used]]                               | 07 Apr 2026   |
-| [[Garden/knowledge-base/Linux users\|Linux users]]                                          | 04 Apr 2026   |
-| [[Garden/knowledge-base/grep highlight\|grep highlight]]                                    | 04 Apr 2026   |
-| [[Garden/knowledge-base/dot.namespaced.hierarchies\|dot.namespaced.hierarchies]]            | 04 Apr 2026   |
-| [[Garden/posts/Classification via compression\|Classification via compression]]             | 04 Apr 2026   |
-| [[Garden/knowledge-base/IPMI\|IPMI]]                                                        | 30 Mar 2026   |
-| [[Garden/knowledge-base/Spaced Repetition\|Spaced Repetition]]                              | 11 Feb 2026   |
-| [[Garden/posts/Write in public\|Write in public]]                                           | 26 Jan 2026   |
-| [[Garden/posts/So what\|So what]]                                                           | 26 Jan 2026   |
-| [[Garden/posts/Pwning C programs with LD_PRELOAD\|Pwning C programs with LD_PRELOAD]]       | 23 Jan 2026   |
-| [[Garden/Index\|Index]]                                                                     | 22 Jan 2026   |
-| [[Garden/knowledge-base/XY problem\|XY problem]]                                            | 22 Jan 2026   |
-| [[Garden/posts/Problem Solving\|Problem Solving]]                                           | 22 Jan 2026   |
-| [[Garden/posts/Note taking for software development\|Note taking for software development]] | 22 Jan 2026   |
-| [[Garden/posts/Notes for Newbie Developers\|Notes for Newbie Developers]]                   | 22 Jan 2026   |
-| [[Garden/posts/Arch Nvidia Docker\|Arch Nvidia Docker]]                                     | 22 Jan 2026   |
-| [[Garden/knowledge-base/3D Design - Blender\|3D Design - Blender]]                          | 21 Jan 2026   |
-| [[Garden/posts/wireguard\|wireguard]]                                                       | 21 Jan 2026   |
-| [[Garden/posts/Library Design\|Library Design]]                                             | 21 Jan 2026   |
-| [[Garden/knowledge-base/man page\|man page]]                                                | 19 Jan 2026   |
-| [[Garden/knowledge-base/Vim\|Vim]]                                                          | 19 Jan 2026   |
-| [[Garden/posts/Linux permissions\|Linux permissions]]                                       | 08 Jan 2026   |
-| [[Garden/posts/The fear of starting\|The fear of starting]]                                 | 07 Jan 2026   |
-| [[Garden/posts/Linked Note Exporter\|Linked Note Exporter]]                                 | 06 Jan 2026   |
-| [[Garden/posts/Hugepages\|Hugepages]]                                                       | 06 Jan 2026   |
-| [[Garden/knowledge-base/Linux Capabilities\|Linux Capabilities]]                            | 06 Jan 2026   |
-| [[Garden/posts/Linux Concepts\|Linux Concepts]]                                             | 06 Jan 2026   |
-| [[Garden/knowledge-base/ELF\|ELF]]                                                          | 06 Jan 2026   |
-| [[Garden/knowledge-base/Everything is a file\|Everything is a file]]                        | 06 Jan 2026   |
-| [[Garden/posts/Linux Process\|Linux Process]]                                               | 05 Jan 2026   |
-| [[Garden/posts/OSCP Journey\|OSCP Journey]]                                                 | 05 Jan 2026   |
-
-{ .block-language-dataview}
+```dataview
+TABLE dateformat(date(modified_date, "yyyy-MM-dd HH:mm"), "dd MMM yyyy") as "Last Modified"
+FROM "Garden"
+SORT modified_date DESC
+```
 
 ---
 

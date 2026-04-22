@@ -56,9 +56,10 @@ Asking AI to write is similar to asking another person (e.g. an intern) to write
 
 1. don't let AI write the whole project. specify the MVP first
 2. I make the plan, which file should contain what, and do what. Then AI fills in the blanks.
-3. Incrementally add features, and manually go through the diff and accept/reject them.
+3. Incrementally add features, and manually go through the diff and accept/reject them. In the process, look out for areas to refactor.
 
 This way, I have full control over the codebase, and I also have great familiarity with it. This actually boost my productivity, but I still have to tell it to refactor it, and question when it blatantly duplicate code.
+
 
 ---
 

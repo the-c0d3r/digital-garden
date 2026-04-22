@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/note-taking-for-software-development/","tags":["knowledge"],"created":"2026-01-22T09:09:19+08:00","updated":"2026-01-22 14:01","dg-note-properties":{"modified_date":"2026-01-22 14:01","creation_date":"2026-01-22T09:09:19+08:00","tags":["knowledge"]}}
+{"dg-publish":true,"permalink":"/garden/posts/note-taking-for-software-development/","tags":["knowledge"],"created":"2026-01-22T09:09:19+08:00","updated":"2026-01-22 09:45","dg-note-properties":{"modified_date":"2026-01-22 09:45","creation_date":"2026-01-22T09:09:19+08:00","tags":["knowledge"]}}
 ---
 
 

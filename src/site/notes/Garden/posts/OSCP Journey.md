@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/oscp-journey/","created":"2026-01-05T22:08:16+08:00","updated":"2026-01-05 22:29","dg-note-properties":{"modified_date":"2026-01-05 22:29","creation_date":"2026-01-05T22:08:16+08:00"}}
+{"dg-publish":true,"permalink":"/garden/posts/oscp-journey/","created":"2026-01-05T22:08:16+08:00","updated":"2026-01-05 22:08","dg-note-properties":{"modified_date":"2026-01-05 22:08","creation_date":"2026-01-05T22:08:16+08:00"}}
 ---
 
 # OSCP Journey - 2020

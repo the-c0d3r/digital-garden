@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/vim/","created":"2022-10-24 22:00","updated":"2026-01-19 10:11","dg-note-properties":{"modified_date":"2026-01-19 10:11","creation_date":"2022-10-24 22:00"}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/vim/","created":"2022-10-24 22:00","updated":"2025-08-27 23:24","dg-note-properties":{"modified_date":"2025-08-27 23:24","creation_date":"2022-10-24 22:00"}}
 ---
 
 # Vim

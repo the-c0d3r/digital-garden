@@ -29,6 +29,7 @@ Firstly understand [[10-Inbox/The definition of a Software Developer\|The defini
     - utilisation of [[02-Area/programming/tools/git\|git]]
     - utilisation of code formatters, linters
     - utilisation of [[02-Area/programming/General/pre-commit hooks\|pre-commit hooks]]
+    - [[02-Area/web-clippings/The mindless tyranny of what if it changes as a software design principle\|What if?]] it changes?
 - after code
     - testing
         - unit testing, functional testing, coverage testing
