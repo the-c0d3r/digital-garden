@@ -7,7 +7,7 @@
 Why write in public?
 
 Because writing in public
-- forces me to write down [[03-Resource/knowledge/Tacit Knowledge\|Tacit Knowledge]] and share with the world
+- forces me to write down [[Garden/knowledge-base/Tacit Knowledge\|Tacit Knowledge]] and share with the world
 - makes me care about the writing quality, because now it is no longer just for my consumption/understanding
 - can avoid repeating the same thing to different people who I mentor
     - e.g. [[Garden/posts/Notes for Newbie Developers\|Notes for Newbie Developers]], [[Garden/posts/Note taking for software development\|Note taking for software development]]
