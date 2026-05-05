@@ -43,14 +43,11 @@ views:
         - file.inFolder("Garden")
     order:
       - file.name
-      - file.mtime
+      - file.ctime
     sort:
-      - property: file.mtime
-        direction: DESC
       - property: file.ctime
         direction: DESC
     limit: 30
-
 ```
 
 
