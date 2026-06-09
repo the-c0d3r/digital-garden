@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/systems-design/","tags":["evergreen","system"],"created":"2025-05-11 12:14","updated":"2026-01-05 22:40","dg-note-properties":{"modified_date":"2026-01-05 22:40","creation_date":"2025-05-11 12:14","edit_duration":550,"tags":["evergreen","system"]}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/systems-design/","tags":["evergreen","system"],"created":"2025-05-11 12:14","updated":"2026-01-05 22:40","dg-note-properties":{"modified_date":"2026-01-05 22:40","creation_date":"2025-05-11 12:14","tags":["evergreen","system"]}}
 ---
 
 # [[Garden/knowledge-base/Systems Design\|Systems Design]]

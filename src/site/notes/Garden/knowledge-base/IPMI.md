@@ -87,3 +87,10 @@ ipmitool sel elist
 ```
 
 [Reverse Engineering Supermicro IPMI – peterkleissner.com](https://peterkleissner.com/2018/05/27/reverse-engineering-supermicro-ipmi/)
+
+
+---
+
+
+[www.supermicro.com - /wdl/utility/IPMIView/Windows/](https://www.supermicro.com/wdl/utility/IPMIView/Windows/)
+You can get the IPMIView from supermicro and use it to access the iKVM. 
