@@ -1,6 +1,7 @@
 <aside>
       <div class="sidebar">
             <div class="sidebar-container">
+                  {% set slotName = "sidebar.top" %}{% include "components/pluginSlot.njk" %}
                   {% for imp in dynamics.sidebar.top %}
                         {% include imp %}
                   {% endfor %}
@@ -63,7 +64,7 @@
                                                       </div>
                                                 {%- endif -%}
                                                 {%- for backlink in currentNode.backLinks -%}
-                                                      {%- if graph.nodes[backlink].url != page.url -%}
+                                                      {%- if graph.nodes[backlink].url != page.url and not graph.nodes[backlink].private -%}
                                                       <div class="backlink-card">
                                                             {%- if not meta.noteIconsSettings.backlinks -%}<i  data-lucide="link"></i> {%- endif -%}<a href="{{graph.nodes[backlink].url}}" data-note-icon="{{graph.nodes[backlink].noteIcon}}" class="backlink">{{graph.nodes[backlink].title}}</a>
                                                       </div>
@@ -74,6 +75,7 @@
                               </div>
                         {%endif%}
                   {%endif%}
+                  {% set slotName = "sidebar.bottom" %}{% include "components/pluginSlot.njk" %}
                   {% for imp in dynamics.sidebar.bottom %}
                         {% include imp %}
                   {% endfor %}
