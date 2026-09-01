@@ -12,8 +12,8 @@ tags: #evergreen
 
 **Principles:**
 
-* **First Principles & Second-Order Thinking:** When tackling a problem, break it down to its fundamental truths ([[Garden/knowledge-base/First Principles\|First Principles]]) and rigorously consider the potential unintended consequences ([[03-Resource/knowledge/Second Order Effect\|Second Order Effect]]).
-* **System Thinking:** Employ [[10-Inbox/System thinking\|System thinking]] to understand the interconnectedness of components and how changes in one area impact the whole.
+* **First Principles & Second-Order Thinking:** When tackling a problem, break it down to its fundamental truths ([[Garden/knowledge-base/First Principles\|First Principles]]) and rigorously consider the potential unintended consequences ([[Garden/knowledge-base/Second Order Effect\|Second Order Effect]]).
+* **System Thinking:** Employ [[Garden/knowledge-base/System thinking\|System thinking]] to understand the interconnectedness of components and how changes in one area impact the whole.
 * **Embrace Emergence:** Avoid designing overly complex systems ([[Garden/knowledge-base/Complex system\|Complex system]]). Instead, create a foundation that allows for an [[Garden/knowledge-base/Emergent System\|Emergent System]] to develop naturally. This means prioritising modularity, adaptability, and a willingness to let the system evolve.
 * **Workflow-Centric Design:**  Identify your natural workflow and design the system *around* it. Don's force your workflow to fit a pre-defined structure.
 * **Iterative Refinement:**  Recognise that systems will eventually need to be rebuilt. When that time comes, be mindful of the [[Garden/knowledge-base/Second System Effect\|Second System Effect]] – avoid the temptation to over-engineer the replacement. Start simple and iterate.
@@ -37,7 +37,7 @@ tags: #evergreen
 **Phase 1: Foundation & Principles**
 * [ ] **Identify Core Problem:** Clearly define the problem the system aims to solve.
 * [ ] **First Principles Breakdown:** Deconstruct the problem to its fundamental truths. (Refer to [[Garden/knowledge-base/First Principles\|First Principles]])
-* [ ] **Second-Order Thinking:**  Brainstorm potential unintended consequences of the system. (Refer to [[03-Resource/knowledge/Second Order Effect\|Second Order Effect]])
+* [ ] **Second-Order Thinking:**  Brainstorm potential unintended consequences of the system. (Refer to [[Garden/knowledge-base/Second Order Effect\|Second Order Effect]])
 * [ ] **Workflow Analysis:** Map out your current natural workflow related to the problem.
 
 **Phase 2: Design & Structure**
