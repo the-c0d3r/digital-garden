@@ -28,7 +28,7 @@ Therefore in order to achieve the above, we need a few things in the note.
 
 Over the course of your work on projects, you will encounter new things you have learned. On the heat of the moment, you can just write down your findings and thoughts in the same note. But they should later be reviewed and extracted into a separate note. This type of note is called **Knowledge Base note**.
 
-For example, I learned about [[Garden/posts/Hugepages\|Hugepages]] and what they do when I was working on [[02-Area/work/definitions/DPI Engine\|DPI Engine]] using [[02-Area/work/definitions/DPDK\|DPDK]]. Then I extracted it into a separate note for my future reference.
+For example, I learned about [[Garden/posts/Hugepages\|Hugepages]] and what they do when I was working on [[02-Area/work/definitions/DPI Engine\|DPI Engine]] using [[Garden/knowledge-base/DPDK\|DPDK]]. Then I extracted it into a separate note for my future reference.
 
 ## Knowledge base note
 
