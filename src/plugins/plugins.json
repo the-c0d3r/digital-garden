@@ -11,7 +11,12 @@
         "src/plugins/analytics/README.md",
         "src/plugins/analytics/garden-plugin.json",
         "src/plugins/analytics/templates/snippet.njk"
-      ]
+      ],
+      "settings": {
+        "provider": "umami",
+        "siteId": "bb140113-53e4-4e33-b01a-90ebcd9badad",
+        "scriptUrl": ""
+      }
     }
   }
 }
