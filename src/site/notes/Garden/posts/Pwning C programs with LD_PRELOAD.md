@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/pwning-c-programs-with-ld-preload/","created":"2019-12-29","updated":"2026-01-23 14:55","dg-note-properties":{"creation_date":"2019-12-29","modified_date":"2026-01-23 14:55"}}
+{"dg-publish":true,"permalink":"/garden/posts/pwning-c-programs-with-ld-preload/","created":"2019-12-29","updated":"2026-01-23 14:55","ctime":"2026-01-23T14:54:59.534+08:00","mtime":"2026-01-26T10:20:17.256+08:00","dg-note-properties":{"creation_date":"2019-12-29","modified_date":"2026-01-23 14:55"}}
 ---
 
 

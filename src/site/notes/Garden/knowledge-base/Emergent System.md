@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/emergent-system/","tags":["definition","evergreen"],"created":"2024-07-01 14:52","updated":"2026-04-18 20:13","dg-note-properties":{"modified_date":"2026-04-18 20:13","creation_date":"2024-07-01 14:52","tags":["definition","evergreen"]}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/emergent-system/","tags":["definition","evergreen"],"created":"2024-07-01 14:52","updated":"2026-04-18 20:13","ctime":"2026-04-18T20:14:35.742+08:00","mtime":"2026-06-09T22:13:43.445+08:00","dg-note-properties":{"modified_date":"2026-04-18 20:13","creation_date":"2024-07-01 14:52","tags":["definition","evergreen"]}}
 ---
 
 # Emergent System

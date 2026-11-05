@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/system-thinking/","created":"2024-12-04T22:07:52+08:00","updated":"2024-12-08T18:14:27+08:00","dg-note-properties":{"modified_date":"2024-12-08T18:14:27+08:00","creation_date":"2024-12-04T22:07:52+08:00"}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/system-thinking/","created":"2024-12-04T22:07:52+08:00","updated":"2024-12-08T18:14:27+08:00","ctime":"2024-12-08T18:14:34.799+08:00","mtime":"2026-09-07T21:09:11.380+08:00","dg-note-properties":{"modified_date":"2024-12-08T18:14:27+08:00","creation_date":"2024-12-04T22:07:52+08:00"}}
 ---
 
 

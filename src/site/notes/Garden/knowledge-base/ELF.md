@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/elf/","created":"2021-12-18T14:07:49+08:00","updated":"2026-01-06 09:36","dg-note-properties":{"modified_date":"2026-01-06 09:36","creation_date":"2021-12-18T14:07:49+08:00"}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/elf/","created":"2021-12-18T14:07:49+08:00","updated":"2026-01-06 09:36","ctime":"2021-12-26T14:46:20.283+08:00","mtime":"2026-01-06T09:37:06.994+08:00","dg-note-properties":{"modified_date":"2026-01-06 09:36","creation_date":"2021-12-18T14:07:49+08:00"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/second-system-effect/","tags":["evergreen"],"created":"2023-12-31 21:21","updated":"2026-04-18 20:29","dg-note-properties":{"modified_date":"2026-04-18 20:29","creation_date":"2023-12-31 21:21","tags":["evergreen"]}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/second-system-effect/","tags":["evergreen"],"created":"2023-12-31 21:21","updated":"2026-04-18 20:29","ctime":"2026-04-18T20:29:46.093+08:00","mtime":"2026-04-19T10:38:43.552+08:00","dg-note-properties":{"modified_date":"2026-04-18 20:29","creation_date":"2023-12-31 21:21","tags":["evergreen"]}}
 ---
 
 # Second System Effect

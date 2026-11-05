@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/so-what/","created":"2026-01-26 10:06","updated":"2026-01-26 10:43","dg-note-properties":{"modified_date":"2026-01-26 10:43","creation_date":"2026-01-26 10:06"}}
+{"dg-publish":true,"permalink":"/garden/posts/so-what/","created":"2026-01-26 10:06","updated":"2026-01-26 10:43","ctime":"2026-01-26T10:06:37.105+08:00","mtime":"2026-01-27T13:24:32.798+08:00","dg-note-properties":{"modified_date":"2026-01-26 10:43","creation_date":"2026-01-26 10:06"}}
 ---
 
 # So what

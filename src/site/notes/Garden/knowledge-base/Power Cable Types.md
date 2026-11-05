@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/power-cable-types/","tags":["hardware"],"created":"2021-01-27 21:30","updated":"2026-04-22 17:13","dg-note-properties":{"tags":["hardware"],"creation_date":"2021-01-27 21:30","modified_date":"2026-04-22 17:13"}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/power-cable-types/","tags":["hardware"],"created":"2021-01-27 21:30","updated":"2026-04-22 17:13","ctime":"2021-01-27T21:30:34.493+08:00","mtime":"2026-04-25T08:11:47.306+08:00","dg-note-properties":{"tags":["hardware"],"creation_date":"2021-01-27 21:30","modified_date":"2026-04-22 17:13"}}
 ---
 
 # Power Cable types

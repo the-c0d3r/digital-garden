@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/arch-nvidia-docker/","created":"2024-05-11 14:54","updated":"2026-01-22 13:43","dg-note-properties":{"modified_date":"2026-01-22 13:43","creation_date":"2024-05-11 14:54"}}
+{"dg-publish":true,"permalink":"/garden/posts/arch-nvidia-docker/","created":"2024-05-11 14:54","updated":"2026-01-22 13:43","ctime":"2024-06-28T15:56:59.906+08:00","mtime":"2026-01-22T13:59:31.244+08:00","dg-note-properties":{"modified_date":"2026-01-22 13:43","creation_date":"2024-05-11 14:54"}}
 ---
 
 

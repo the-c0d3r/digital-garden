@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/dot-namespaced-hierarchies/","tags":["knowledge"],"created":"2023-08-18 09:21","updated":"2026-04-04 16:14","dg-note-properties":{"modified_date":"2026-04-04 16:14","creation_date":"2023-08-18 09:21","tags":["knowledge"]}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/dot-namespaced-hierarchies/","tags":["knowledge"],"created":"2023-08-18 09:21","updated":"2026-04-04 16:14","ctime":"2026-04-04T08:43:27.947+08:00","mtime":"2026-04-04T10:21:42.248+08:00","dg-note-properties":{"modified_date":"2026-04-04 16:14","creation_date":"2023-08-18 09:21","tags":["knowledge"]}}
 ---
 
 # dot.namespaced.hierarchies

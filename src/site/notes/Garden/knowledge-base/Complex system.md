@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/complex-system/","tags":["evergreen"],"created":"2023-05-15 13:07","updated":"2026-04-18 20:28","dg-note-properties":{"modified_date":"2026-04-18 20:28","creation_date":"2023-05-15 13:07","alias":["Gall law"],"tags":["evergreen"]}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/complex-system/","tags":["evergreen"],"created":"2023-05-15 13:07","updated":"2026-04-18 20:28","ctime":"2026-04-18T20:28:31.887+08:00","mtime":"2026-04-19T10:38:43.900+08:00","dg-note-properties":{"modified_date":"2026-04-18 20:28","creation_date":"2023-05-15 13:07","alias":["Gall law"],"tags":["evergreen"]}}
 ---
 
 # Complex system

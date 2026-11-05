@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/grep-highlight/","tags":["commands","linux"],"created":"2024-09-23 15:37","updated":"2026-04-04 16:17","dg-note-properties":{"modified_date":"2026-04-04 16:17","creation_date":"2024-09-23 15:37","tags":["commands","linux"]}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/grep-highlight/","tags":["commands","linux"],"created":"2024-09-23 15:37","updated":"2026-04-04 16:17","ctime":"2026-04-04T08:43:27.975+08:00","mtime":"2026-04-04T10:21:42.558+08:00","dg-note-properties":{"modified_date":"2026-04-04 16:17","creation_date":"2024-09-23 15:37","tags":["commands","linux"]}}
 ---
 
 # grep highlight

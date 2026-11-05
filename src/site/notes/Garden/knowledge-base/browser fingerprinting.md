@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/browser-fingerprinting/","created":"2025-12-10 10:36","updated":"2026-04-18 20:08","dg-note-properties":{"modified_date":"2026-04-18 20:08","creation_date":"2025-12-10 10:36"}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/browser-fingerprinting/","created":"2025-12-10 10:36","updated":"2026-04-18 20:08","ctime":"2026-04-18T20:09:07.770+08:00","mtime":"2026-04-19T10:38:44.660+08:00","dg-note-properties":{"modified_date":"2026-04-18 20:08","creation_date":"2025-12-10 10:36"}}
 ---
 
 # browser fingerprinting

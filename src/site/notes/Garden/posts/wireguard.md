@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/wireguard/","tags":["software","config"],"created":"2023-12-12T11:02:27+08:00","updated":"2026-01-21 15:10","dg-note-properties":{"modified_date":"2026-01-21 15:10","creation_date":"2023-12-12T11:02:27+08:00","tags":["software","config"]}}
+{"dg-publish":true,"permalink":"/garden/posts/wireguard/","tags":["software","config"],"created":"2023-12-12T11:02:27+08:00","updated":"2026-01-21 15:10","ctime":"2025-07-10T22:21:08.588+08:00","mtime":"2026-01-21T16:11:45.879+08:00","dg-note-properties":{"modified_date":"2026-01-21 15:10","creation_date":"2023-12-12T11:02:27+08:00","tags":["software","config"]}}
 ---
 
 # [[Garden/posts/wireguard\|wireguard]]

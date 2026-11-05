@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/index/","tags":["gardenEntry"],"created":"2026-01-05 21:28","updated":"2026-01-22 16:03","dg-note-properties":{"modified_date":"2026-01-22 16:03","creation_date":"2026-01-05 21:28"}}
+{"dg-publish":true,"permalink":"/garden/index/","tags":["gardenEntry"],"created":"2026-01-05 21:28","updated":"2026-01-22 16:03","ctime":"2026-02-22T14:12:05.676+08:00","mtime":"2026-04-23T19:42:49.307+08:00","dg-note-properties":{"modified_date":"2026-01-22 16:03","creation_date":"2026-01-05 21:28"}}
 ---
 
 

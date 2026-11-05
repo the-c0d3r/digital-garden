@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/ipmi/","created":"2022-10-26 22:00","updated":"2026-03-30 11:52","dg-note-properties":{"modified_date":"2026-03-30 11:52","aliases":["ipmitool","reset iLo password"],"creation_date":"2022-10-26 22:00"}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/ipmi/","created":"2022-10-26 22:00","updated":"2026-03-30 11:52","ctime":"2024-01-09T15:04:54.940+08:00","mtime":"2026-05-07T18:45:48.282+08:00","dg-note-properties":{"modified_date":"2026-03-30 11:52","aliases":["ipmitool","reset iLo password"],"creation_date":"2022-10-26 22:00"}}
 ---
 
 # IPMI

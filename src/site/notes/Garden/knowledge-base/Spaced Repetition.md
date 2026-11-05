@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/spaced-repetition/","tags":["evergreen","memory"],"created":"2022-10-26 21:40","updated":"2026-02-11 16:26","dg-note-properties":{"modified_date":"2026-02-11 16:26","tags":["evergreen","memory"],"creation_date":"2022-10-26 21:40"}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/spaced-repetition/","tags":["evergreen","memory"],"created":"2022-10-26 21:40","updated":"2026-02-11 16:26","ctime":"2022-10-26T21:40:23.002+08:00","mtime":"2026-02-11T16:27:14.440+08:00","dg-note-properties":{"modified_date":"2026-02-11 16:26","tags":["evergreen","memory"],"creation_date":"2022-10-26 21:40"}}
 ---
 
 # Spaced Repetition

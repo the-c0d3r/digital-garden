@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/hugepages/","tags":["#programming/linux","#config"],"created":"2021-10-22T09:42:50+08:00","updated":"2026-01-06 13:36","dg-note-properties":{"modified_date":"2026-01-06 13:36","tags":["#programming/linux","#config"],"creation_date":"2021-10-22T09:42:50+08:00"}}
+{"dg-publish":true,"permalink":"/garden/posts/hugepages/","tags":["#programming/linux","#config"],"created":"2021-10-22T09:42:50+08:00","updated":"2026-01-06 13:36","ctime":"2023-12-07T14:04:28.342+08:00","mtime":"2026-01-06T13:36:49.249+08:00","dg-note-properties":{"modified_date":"2026-01-06 13:36","tags":["#programming/linux","#config"],"creation_date":"2021-10-22T09:42:50+08:00"}}
 ---
 
 

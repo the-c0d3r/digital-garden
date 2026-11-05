@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/why-use-a-todo-app/","tags":["evergreen","knowledge"],"created":"2026-04-18 20:21","updated":"2026-04-18 20:24","dg-note-properties":{"modified_date":"2026-04-18 20:24","creation_date":"2026-04-18 20:21","tags":["evergreen","knowledge"]}}
+{"dg-publish":true,"permalink":"/garden/posts/why-use-a-todo-app/","tags":["evergreen","knowledge"],"created":"2026-04-18 20:21","updated":"2026-04-18 20:24","ctime":"2026-04-18T20:24:26.782+08:00","mtime":"2026-04-19T10:38:45.414+08:00","dg-note-properties":{"modified_date":"2026-04-18 20:24","creation_date":"2026-04-18 20:21","tags":["evergreen","knowledge"]}}
 ---
 
 # Why use a todo app?

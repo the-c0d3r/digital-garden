@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/linux-concepts/","tags":["linux"],"created":"2021-11-24 13:36","updated":"2026-01-05 22:27","dg-note-properties":{"modified_date":"2026-01-05 22:27","creation_date":"2021-11-24 13:36","tags":["linux"]}}
+{"dg-publish":true,"permalink":"/garden/posts/linux-concepts/","tags":["linux"],"created":"2021-11-24 13:36","updated":"2026-01-05 22:27","ctime":"2024-02-12T22:10:03.936+08:00","mtime":"2026-01-06T09:44:42.387+08:00","dg-note-properties":{"modified_date":"2026-01-05 22:27","creation_date":"2021-11-24 13:36","tags":["linux"]}}
 ---
 
 # Linux Concepts

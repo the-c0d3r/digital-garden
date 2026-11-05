@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/xy-problem/","tags":["evergreen"],"created":"2024-03-06T14:49:57+08:00","updated":"2026-01-22 14:03","dg-note-properties":{"modified_date":"2026-01-22 14:03","creation_date":"2024-03-06T14:49:57+08:00","tags":["evergreen"]}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/xy-problem/","tags":["evergreen"],"created":"2024-03-06T14:49:57+08:00","updated":"2026-01-22 14:03","ctime":"2024-06-12T21:49:40.594+08:00","mtime":"2026-01-29T16:03:06.282+08:00","dg-note-properties":{"modified_date":"2026-01-22 14:03","creation_date":"2024-03-06T14:49:57+08:00","tags":["evergreen"]}}
 ---
 
 # XY problem

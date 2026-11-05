@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/faiss/","tags":["software"],"created":"2023-08-01 11:49","updated":"2026-04-18 20:15","dg-note-properties":{"modified_date":"2026-04-18 20:15","creation_date":"2023-08-01 11:49","tags":["software"]}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/faiss/","tags":["software"],"created":"2023-08-01 11:49","updated":"2026-04-18 20:15","ctime":"2026-04-18T20:19:00.381+08:00","mtime":"2026-04-19T10:46:57.569+08:00","dg-note-properties":{"modified_date":"2026-04-18 20:15","creation_date":"2023-08-01 11:49","tags":["software"]}}
 ---
 
 # [[Garden/knowledge-base/FAISS\|FAISS]]

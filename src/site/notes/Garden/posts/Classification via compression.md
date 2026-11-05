@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/classification-via-compression/","tags":["machine-learning"],"created":"2026-03-10 10:30","updated":"2026-04-04 16:11","dg-note-properties":{"modified_date":"2026-04-04 16:11","creation_date":"2026-03-10 10:30","tags":["machine-learning"]}}
+{"dg-publish":true,"permalink":"/garden/posts/classification-via-compression/","tags":["machine-learning"],"created":"2026-03-10 10:30","updated":"2026-04-04 16:11","ctime":"2026-04-04T08:43:27.891+08:00","mtime":"2026-04-04T10:21:42.507+08:00","dg-note-properties":{"modified_date":"2026-04-04 16:11","creation_date":"2026-03-10 10:30","tags":["machine-learning"]}}
 ---
 
 # Classification via compression

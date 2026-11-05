@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/fec/","tags":["definition","networking","flashcards"],"created":"2023-06-10 22:31","updated":"2026-04-18 20:18","dg-note-properties":{"modified_date":"2026-04-18 20:18","creation_date":"2023-06-10 22:31","alias":["Forward Error Correction"],"tags":["definition","networking","flashcards"]}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/fec/","tags":["definition","networking","flashcards"],"created":"2023-06-10 22:31","updated":"2026-04-18 20:18","ctime":"2026-04-18T20:18:42.278+08:00","mtime":"2026-04-19T10:38:46.105+08:00","dg-note-properties":{"modified_date":"2026-04-18 20:18","creation_date":"2023-06-10 22:31","alias":["Forward Error Correction"],"tags":["definition","networking","flashcards"]}}
 ---
 
 # Forward Error Correction ([[Garden/knowledge-base/FEC\|FEC]])

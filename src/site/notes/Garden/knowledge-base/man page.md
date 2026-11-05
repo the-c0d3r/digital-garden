@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/man-page/","tags":["linux","commands"],"created":"2021-12-23 15:27","updated":"2026-01-19 10:14","dg-note-properties":{"modified_date":"2026-01-19 10:14","creation_date":"2021-12-23 15:27","alias":["manpage","manual page"],"tags":["linux","commands"]}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/man-page/","tags":["linux","commands"],"created":"2021-12-23 15:27","updated":"2026-01-19 10:14","ctime":"2022-05-30T20:38:42.126+08:00","mtime":"2026-01-19T10:15:10.913+08:00","dg-note-properties":{"modified_date":"2026-01-19 10:14","creation_date":"2021-12-23 15:27","alias":["manpage","manual page"],"tags":["linux","commands"]}}
 ---
 
 # [[Garden/knowledge-base/man page\|man page]]

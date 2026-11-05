@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/first-principles/","tags":["evergreen"],"created":"2024-05-19 17:57","updated":"2026-04-18 20:28","dg-note-properties":{"tags":["evergreen"],"creation_date":"2024-05-19 17:57","modified_date":"2026-04-18 20:28"}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/first-principles/","tags":["evergreen"],"created":"2024-05-19 17:57","updated":"2026-04-18 20:28","ctime":"2026-04-18T20:29:00.185+08:00","mtime":"2026-04-19T10:46:57.136+08:00","dg-note-properties":{"tags":["evergreen"],"creation_date":"2024-05-19 17:57","modified_date":"2026-04-18 20:28"}}
 ---
 
 # First Principles

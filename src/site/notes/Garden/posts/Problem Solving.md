@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/problem-solving/","tags":["evergreen","philosophy"],"created":"2023-04-03 11:56","updated":"2026-01-22 14:03","dg-note-properties":{"creation_date":"2023-04-03 11:56","modified_date":"2026-01-22 14:03","alias":["problem solving by subtraction","problem solving by removing"],"tags":["evergreen","philosophy"]}}
+{"dg-publish":true,"permalink":"/garden/posts/problem-solving/","tags":["evergreen","philosophy"],"created":"2023-04-03 11:56","updated":"2026-01-22 14:03","ctime":"2026-02-22T08:24:58.668+08:00","mtime":"2026-02-22T08:24:58.668+08:00","dg-note-properties":{"creation_date":"2023-04-03 11:56","modified_date":"2026-01-22 14:03","alias":["problem solving by subtraction","problem solving by removing"],"tags":["evergreen","philosophy"]}}
 ---
 
 

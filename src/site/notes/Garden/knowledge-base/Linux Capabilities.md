@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/linux-capabilities/","tags":["hacking","programming/linux"],"created":"2022-05-28 21:16","updated":"2026-01-06 13:33","dg-note-properties":{"modified_date":"2026-01-06 13:33","tags":["hacking","programming/linux"],"alias":["Linux Capabilities"],"creation_date":"2022-05-28 21:16"}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/linux-capabilities/","tags":["hacking","programming/linux"],"created":"2022-05-28 21:16","updated":"2026-01-06 13:33","ctime":"2022-05-28T21:16:22.389+08:00","mtime":"2026-01-06T13:33:23.752+08:00","dg-note-properties":{"modified_date":"2026-01-06 13:33","tags":["hacking","programming/linux"],"alias":["Linux Capabilities"],"creation_date":"2022-05-28 21:16"}}
 ---
 
 # Linux Capabilities

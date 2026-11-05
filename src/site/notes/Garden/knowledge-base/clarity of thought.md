@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/clarity-of-thought/","created":"2024-11-16T16:12:52+08:00","updated":"2024-11-16T16:12:52+08:00","dg-note-properties":{"modified_date":"2024-11-16T16:12:52+08:00","creation_date":"2024-11-16T16:12:52+08:00"}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/clarity-of-thought/","created":"2024-11-16T16:12:52+08:00","updated":"2024-11-16T16:12:52+08:00","ctime":"2026-04-04T08:43:27.863+08:00","mtime":"2026-04-04T10:21:42.463+08:00","dg-note-properties":{"modified_date":"2024-11-16T16:12:52+08:00","creation_date":"2024-11-16T16:12:52+08:00"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/linux-process/","created":"2021-12-21T11:08:42+08:00","updated":"2026-01-05 22:44","dg-note-properties":{"modified_date":"2026-01-05 22:44","creation_date":"2021-12-21T11:08:42+08:00"}}
+{"dg-publish":true,"permalink":"/garden/posts/linux-process/","created":"2021-12-21T11:08:42+08:00","updated":"2026-01-05 22:44","ctime":"2023-03-25T10:17:39.630+08:00","mtime":"2026-01-05T22:44:30.449+08:00","dg-note-properties":{"modified_date":"2026-01-05 22:44","creation_date":"2021-12-21T11:08:42+08:00"}}
 ---
 
 # Linux Process

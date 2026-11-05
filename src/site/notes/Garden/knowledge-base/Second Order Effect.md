@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/second-order-effect/","created":"2021-11-21T14:14:31+08:00","updated":"2021-11-21T14:19:07+08:00","dg-note-properties":{"modified_date":"2021-11-21T14:19:07+08:00","creation_date":"2021-11-21T14:14:31+08:00"}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/second-order-effect/","created":"2021-11-21T14:14:31+08:00","updated":"2021-11-21T14:19:07+08:00","ctime":"2021-11-21T14:19:07.961+08:00","mtime":"2026-09-07T21:09:11.412+08:00","dg-note-properties":{"modified_date":"2021-11-21T14:19:07+08:00","creation_date":"2021-11-21T14:14:31+08:00"}}
 ---
 
 

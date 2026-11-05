@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/how-ai-should-be-used/","tags":["llm"],"created":"2025-05-19 21:30","updated":"2026-04-07 22:11","dg-note-properties":{"modified_date":"2026-04-07 22:11","creation_date":"2025-05-19 21:30","tags":["llm"],"aliases":["How I use AI","How to use AI"]}}
+{"dg-publish":true,"permalink":"/garden/posts/how-ai-should-be-used/","tags":["llm"],"created":"2025-05-19 21:30","updated":"2026-04-07 22:11","ctime":"2026-04-19T09:20:40.748+08:00","mtime":"2026-04-19T09:20:40.748+08:00","dg-note-properties":{"modified_date":"2026-04-07 22:11","creation_date":"2025-05-19 21:30","tags":["llm"],"aliases":["How I use AI","How to use AI"]}}
 ---
 
 # How AI should be used

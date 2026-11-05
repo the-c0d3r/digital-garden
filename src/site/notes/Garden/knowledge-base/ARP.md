@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/arp/","tags":["networking"],"created":"2025-10-14 16:21","updated":"2026-04-18 20:05","dg-note-properties":{"modified_date":"2026-04-18 20:05","creation_date":"2025-10-14 16:21","tags":["networking"]}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/arp/","tags":["networking"],"created":"2025-10-14 16:21","updated":"2026-04-18 20:05","ctime":"2026-04-18T20:06:07.786+08:00","mtime":"2026-04-19T10:38:45.719+08:00","dg-note-properties":{"modified_date":"2026-04-18 20:05","creation_date":"2025-10-14 16:21","tags":["networking"]}}
 ---
 
 # ARP

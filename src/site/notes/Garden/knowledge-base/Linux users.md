@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/linux-users/","tags":["linx","config","scripts"],"created":"2025-08-18 12:20","updated":"2026-04-04 16:19","dg-note-properties":{"modified_date":"2026-04-04 16:19","creation_date":"2025-08-18 12:20","tags":["linx","config","scripts"]}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/linux-users/","tags":["linx","config","scripts"],"created":"2025-08-18 12:20","updated":"2026-04-04 16:19","ctime":"2026-04-04T08:43:27.839+08:00","mtime":"2026-04-04T10:21:42.414+08:00","dg-note-properties":{"modified_date":"2026-04-04 16:19","creation_date":"2025-08-18 12:20","tags":["linx","config","scripts"]}}
 ---
 
 # Linux users

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/moral-arguments/","tags":["evergreen","quote","philosophy","ai-generated"],"created":"2025-01-28T10:05:38+08:00","updated":"2025-07-29T14:05:59+08:00","dg-note-properties":{"modified_date":"2025-07-29T14:05:59+08:00","creation_date":"2025-01-28T10:05:38+08:00","tags":["evergreen","quote","philosophy","ai-generated"],"aliases":["phrases I really hate"]}}
+{"dg-publish":true,"permalink":"/garden/posts/moral-arguments/","tags":["evergreen","quote","philosophy","ai-generated"],"created":"2025-01-28T10:05:38+08:00","updated":"2025-07-29T14:05:59+08:00","ctime":"2026-04-04T08:43:27.919+08:00","mtime":"2026-04-04T10:21:42.295+08:00","dg-note-properties":{"modified_date":"2025-07-29T14:05:59+08:00","creation_date":"2025-01-28T10:05:38+08:00","tags":["evergreen","quote","philosophy","ai-generated"],"aliases":["phrases I really hate"]}}
 ---
 
 # Moral Arguments

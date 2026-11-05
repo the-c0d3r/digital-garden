@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/posts/library-design/","created":"2026-01-21T14:50:55+08:00","updated":"2026-01-21 14:50","dg-note-properties":{"modified_date":"2026-01-21 14:50","creation_date":"2026-01-21T14:50:55+08:00"}}
+{"dg-publish":true,"permalink":"/garden/posts/library-design/","created":"2026-01-21T14:50:55+08:00","updated":"2026-01-21 14:50","ctime":"2026-01-21T14:50:55.326+08:00","mtime":"2026-01-21T14:57:29.217+08:00","dg-note-properties":{"modified_date":"2026-01-21 14:50","creation_date":"2026-01-21T14:50:55+08:00"}}
 ---
 
 

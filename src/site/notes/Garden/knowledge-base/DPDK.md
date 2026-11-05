@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/dpdk/","created":"2022-06-03T13:26:20+08:00","updated":"2024-09-23T19:13:04+08:00","dg-note-properties":{"modified_date":"2024-09-23T19:13:04+08:00","creation_date":"2022-06-03T13:26:20+08:00"}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/dpdk/","created":"2022-06-03T13:26:20+08:00","updated":"2024-09-23T19:13:04+08:00","ctime":"2023-10-03T17:37:36.585+08:00","mtime":"2026-09-07T21:09:12.232+08:00","dg-note-properties":{"modified_date":"2024-09-23T19:13:04+08:00","creation_date":"2022-06-03T13:26:20+08:00"}}
 ---
 
 

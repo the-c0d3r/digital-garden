@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/base64/","tags":["linux","commands"],"created":"2025-09-12 10:49","updated":"2026-04-18 20:09","dg-note-properties":{"modified_date":"2026-04-18 20:09","creation_date":"2025-09-12 10:49","tags":["linux","commands"]}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/base64/","tags":["linux","commands"],"created":"2025-09-12 10:49","updated":"2026-04-18 20:09","ctime":"2026-04-18T20:09:49.988+08:00","mtime":"2026-04-19T10:38:46.528+08:00","dg-note-properties":{"modified_date":"2026-04-18 20:09","creation_date":"2025-09-12 10:49","tags":["linux","commands"]}}
 ---
 
 # base64

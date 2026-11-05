@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/tacit-knowledge/","tags":["knowledge"],"created":"2021-12-13 18:24","updated":"2026-05-05 14:16","dg-note-properties":{"modified_date":"2026-05-05 14:16","creation_date":"2021-12-13 18:24","tags":["knowledge"]}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/tacit-knowledge/","tags":["knowledge"],"created":"2021-12-13 18:24","updated":"2026-05-05 14:16","ctime":"2021-12-13T18:30:43.325+08:00","mtime":"2026-05-06T23:06:39.153+08:00","dg-note-properties":{"modified_date":"2026-05-05 14:16","creation_date":"2021-12-13 18:24","tags":["knowledge"]}}
 ---
 
 # [[Garden/knowledge-base/Tacit Knowledge\|Tacit Knowledge]]

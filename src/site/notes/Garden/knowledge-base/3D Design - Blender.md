@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/knowledge-base/3-d-design-blender/","created":"2025-10-15 11:19","updated":"2026-01-19 13:57","dg-note-properties":{"modified_date":"2026-01-19 13:57","creation_date":"2025-10-15 11:19"}}
+{"dg-publish":true,"permalink":"/garden/knowledge-base/3-d-design-blender/","created":"2025-10-15 11:19","updated":"2026-01-19 13:57","ctime":"2025-10-15T11:19:50.366+08:00","mtime":"2026-01-21T18:32:52.895+08:00","dg-note-properties":{"modified_date":"2026-01-19 13:57","creation_date":"2025-10-15 11:19"}}
 ---
 
 # [[Garden/knowledge-base/3D Design - Blender\|3D Design - Blender]]
